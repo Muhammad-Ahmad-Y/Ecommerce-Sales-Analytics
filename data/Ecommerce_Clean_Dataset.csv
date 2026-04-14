@@ -1,0 +1,581 @@
+OrderID,OrderDate,CustomerID,City,State,ProductID,ProductName,Category,UnitPrice,Quantity,LineSubtotal,DiscountRate,DiscountAmount,TaxAmount,ShippingMethod,ShippingCost,OrderTotal,PaymentMethod,ShippingDate,DeliveryDate,Returned,RefundAmount
+ORD20000,30/04/2024 00:00,CUST1068,Kaduna,Kaduna State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0.05,10,14.25,Expedited,10,214.25,Bank Transfer,30/04/2024 00:00,04/05/2024 00:00,No,0
+ORD20001,06/04/2024 00:00,CUST1241,Minna,Niger State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Expedited,10,149.75,Credit Card,06/04/2024 00:00,11/04/2024 00:00,No,0
+ORD20002,03/01/2024 00:00,CUST1199,Minna,Niger State,P6001,Football,Sports,30,1,30,0,0,2.25,Two-Day,15,47.25,Bank Transfer,03/01/2024 00:00,08/01/2024 00:00,No,0
+ORD20003,14/04/2024 00:00,CUST1136,Abuja,Fct,P6001,Football,Sports,30,2,60,0,0,4.5,Expedited,15,79.5,Credit Card,14/04/2024 00:00,19/04/2024 00:00,No,0
+ORD20004,10/01/2024 00:00,CUST1011,Kano,Kano State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Expedited,5,17.9,Paypal,10/01/2024 00:00,12/01/2024 00:00,No,0
+ORD20005,15/08/2024 00:00,CUST1216,Kano,Kano State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Expedited,10,22.9,Bank Transfer,15/08/2024 00:00,16/08/2024 00:00,No,0
+ORD20006,24/08/2024 00:00,CUST1283,Abuja,Fct,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Two-Day,15,63.38,Paypal,24/08/2024 00:00,26/08/2024 00:00,No,0
+ORD20007,02/03/2025 00:00,CUST1235,Jos,Plateau State,P1001,Smartphone X1,Electronics,300,1,300,0,0,22.5,Two-Day,10,332.5,Credit Card,02/03/2025 00:00,04/03/2025 00:00,No,0
+ORD20008,06/12/2024 00:00,CUST1095,Jos,Plateau State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Two-Day,15,1305,Bank Transfer,06/12/2024 00:00,11/12/2024 00:00,No,0
+ORD20009,17/10/2024 00:00,CUST1259,Abuja,Fct,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Two-Day,5,220,Bank Transfer,17/10/2024 00:00,22/10/2024 00:00,No,0
+ORD20010,05/02/2024 00:00,CUST1258,Minna,Niger State,P6001,Football,Sports,30,1,30,0,0,2.25,Expedited,10,42.25,Paypal,05/02/2024 00:00,06/02/2024 00:00,No,0
+ORD20011,10/01/2025 00:00,CUST1206,Minna,Niger State,P1003,Wireless Headphones,Electronics,90,1,90,0.1,9,6.08,Two-Day,10,97.08,Cash On Delivery,10/01/2025 00:00,15/01/2025 00:00,No,0
+ORD20012,20/04/2024 00:00,CUST1044,Sokoto,Sokoto State,P5001,Bestseller Novel,Books,12,1,12,0.1,1.2,0.81,Standard,5,16.61,Bank Transfer,20/04/2024 00:00,23/04/2024 00:00,No,0
+ORD20013,25/04/2025 00:00,CUST1189,Sokoto,Sokoto State,P1001,Smartphone X1,Electronics,300,1,300,0,0,22.5,Standard,5,327.5,Cash On Delivery,25/04/2025 00:00,28/04/2025 00:00,No,0
+ORD20014,21/06/2024 00:00,CUST1296,Minna,Niger State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Two-Day,10,106.75,Paypal,21/06/2024 00:00,23/06/2024 00:00,No,0
+ORD20015,15/07/2025 00:00,CUST1006,Abuja,Fct,P5001,Bestseller Novel,Books,12,1,12,0.05,0.6,0.86,Standard,15,27.26,Bank Transfer,15/07/2025 00:00,20/07/2025 00:00,No,0
+ORD20016,27/12/2024 00:00,CUST1263,Zaria,Kaduna State,P6001,Football,Sports,30,2,60,0,0,4.5,Expedited,10,74.5,Cash On Delivery,27/12/2024 00:00,28/12/2024 00:00,No,0
+ORD20017,08/06/2025 00:00,CUST1280,Kano,Kano State,P3002,Women T‑Shirt,Clothing,20,2,40,0,0,3,Standard,10,53,Paypal,08/06/2025 00:00,13/06/2025 00:00,No,0
+ORD20018,08/01/2025 00:00,CUST1218,Kano,Kano State,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Two-Day,15,31.12,Paypal,08/01/2025 00:00,13/01/2025 00:00,No,0
+ORD20019,31/12/2024 00:00,CUST1258,Minna,Niger State,P4001,Body Lotion,Health & Beauty,15,2,30,0,0,2.25,Expedited,5,37.25,Cash On Delivery,31/12/2024 00:00,01/01/2025 00:00,No,0
+ORD20020,06/09/2025 00:00,CUST1000,Zaria,Kaduna State,P4001,Body Lotion,Health & Beauty,15,1,15,0.15,2.25,0.96,Standard,15,28.71,Paypal,06/09/2025 00:00,10/09/2025 00:00,No,0
+ORD20021,18/07/2025 00:00,CUST1090,Lagos,Lagos State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0.1,120,81,Expedited,15,1176,Credit Card,18/07/2025 00:00,19/07/2025 00:00,No,0
+ORD20022,08/04/2025 00:00,CUST1036,Kaduna,Kaduna State,P1001,Smartphone X1,Electronics,300,1,300,0.05,15,21.38,Standard,5,311.38,Cash On Delivery,08/04/2025 00:00,10/04/2025 00:00,No,0
+ORD20023,01/10/2025 00:00,CUST1127,Jos,Plateau State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Standard,10,1300,Cash On Delivery,01/10/2025 00:00,03/10/2025 00:00,No,0
+ORD20024,12/06/2024 00:00,CUST1148,Kaduna,Kaduna State,P1003,Wireless Headphones,Electronics,90,2,180,0,0,13.5,Expedited,10,203.5,Paypal,12/06/2024 00:00,13/06/2024 00:00,No,0
+ORD20025,20/12/2025 00:00,CUST1139,Jos,Plateau State,P4001,Body Lotion,Health & Beauty,15,4,60,0,0,4.5,Expedited,10,74.5,Bank Transfer,20/12/2025 00:00,22/12/2025 00:00,No,0
+ORD20026,15/11/2024 00:00,CUST1242,Kaduna,Kaduna State,P1001,Smartphone X1,Electronics,300,1,300,0,0,22.5,Expedited,10,332.5,Cash On Delivery,15/11/2024 00:00,16/11/2024 00:00,No,0
+ORD20027,21/04/2024 00:00,CUST1215,Abuja,Fct,P2002,Vacuum Cleaner,Home & Kitchen,200,3,600,0.05,30,42.75,Expedited,10,622.75,Paypal,21/04/2024 00:00,26/04/2024 00:00,Yes,622.75
+ORD20028,19/01/2024 00:00,CUST1221,Kano,Kano State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Expedited,10,149.75,Paypal,19/01/2024 00:00,21/01/2024 00:00,No,0
+ORD20029,22/12/2025 00:00,CUST1018,Lagos,Lagos State,P4001,Body Lotion,Health & Beauty,15,1,15,0.05,0.75,1.07,Two-Day,5,20.32,Bank Transfer,22/12/2025 00:00,27/12/2025 00:00,No,0
+ORD20030,06/04/2025 00:00,CUST1278,Abuja,Fct,P5001,Bestseller Novel,Books,12,1,12,0.15,1.8,0.76,Standard,15,25.96,Credit Card,06/04/2025 00:00,07/04/2025 00:00,Yes,25.96
+ORD20031,01/03/2024 00:00,CUST1202,Zaria,Kaduna State,P3002,Women T‑Shirt,Clothing,20,2,40,0,0,3,Two-Day,10,53,Cash On Delivery,01/03/2024 00:00,04/03/2024 00:00,No,0
+ORD20032,09/11/2024 00:00,CUST1064,Abuja,Fct,P1001,Smartphone X1,Electronics,300,2,600,0.05,30,42.75,Standard,5,617.75,Credit Card,09/11/2024 00:00,12/11/2024 00:00,No,0
+ORD20033,02/03/2025 00:00,CUST1158,Jos,Plateau State,P1003,Wireless Headphones,Electronics,90,1,90,0.1,9,6.08,Two-Day,5,92.08,Cash On Delivery,02/03/2025 00:00,03/03/2025 00:00,No,0
+ORD20034,08/02/2024 00:00,CUST1066,Kano,Kano State,P5001,Bestseller Novel,Books,12,2,24,0,0,1.8,Two-Day,5,30.8,Paypal,08/02/2024 00:00,12/02/2024 00:00,No,0
+ORD20035,21/12/2025 00:00,CUST1291,Sokoto,Sokoto State,P1003,Wireless Headphones,Electronics,90,3,270,0,0,20.25,Two-Day,15,305.25,Credit Card,21/12/2025 00:00,25/12/2025 00:00,No,0
+ORD20036,11/04/2024 00:00,CUST1193,Abuja,Fct,P3001,Men Denim Jeans,Clothing,45,2,90,0,0,6.75,Standard,15,111.75,Bank Transfer,11/04/2024 00:00,15/04/2024 00:00,No,0
+ORD20037,12/11/2025 00:00,CUST1099,Sokoto,Sokoto State,P1002,Laptop Pro 15,Electronics,1200,2,2400,0,0,180,Expedited,5,2585,Cash On Delivery,12/11/2025 00:00,17/11/2025 00:00,No,0
+ORD20038,29/11/2024 00:00,CUST1258,Sokoto,Sokoto State,P1001,Smartphone X1,Electronics,300,2,600,0.05,30,42.75,Two-Day,15,627.75,Bank Transfer,29/11/2024 00:00,01/12/2024 00:00,No,0
+ORD20039,24/07/2024 00:00,CUST1144,Kano,Kano State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Expedited,15,111.75,Paypal,24/07/2024 00:00,26/07/2024 00:00,No,0
+ORD20040,29/09/2024 00:00,CUST1173,Minna,Niger State,P2001,Cookware Set,Home & Kitchen,130,2,260,0,0,19.5,Two-Day,10,289.5,Credit Card,29/09/2024 00:00,04/10/2024 00:00,No,0
+ORD20041,11/05/2025 00:00,CUST1194,Zaria,Kaduna State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Two-Day,10,22.9,Paypal,11/05/2025 00:00,12/05/2025 00:00,No,0
+ORD20042,16/05/2024 00:00,CUST1033,Kano,Kano State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Standard,5,1295,Paypal,16/05/2024 00:00,17/05/2024 00:00,No,0
+ORD20043,06/12/2024 00:00,CUST1275,Abuja,Fct,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Two-Day,15,230,Cash On Delivery,06/12/2024 00:00,10/12/2024 00:00,No,0
+ORD20044,26/04/2024 00:00,CUST1188,Zaria,Kaduna State,P3001,Men Denim Jeans,Clothing,45,2,90,0,0,6.75,Expedited,5,101.75,Paypal,26/04/2024 00:00,30/04/2024 00:00,No,0
+ORD20045,18/07/2025 00:00,CUST1250,Lagos,Lagos State,P6001,Football,Sports,30,2,60,0.05,3,4.27,Standard,5,66.27,Cash On Delivery,18/07/2025 00:00,20/07/2025 00:00,Yes,66.27
+ORD20046,24/01/2025 00:00,CUST1020,Minna,Niger State,P1002,Laptop Pro 15,Electronics,1200,3,3600,0,0,270,Standard,15,3885,Paypal,24/01/2025 00:00,29/01/2025 00:00,No,0
+ORD20047,24/08/2025 00:00,CUST1174,Kaduna,Kaduna State,P6001,Football,Sports,30,3,90,0.1,9,6.08,Expedited,5,92.08,Credit Card,24/08/2025 00:00,28/08/2025 00:00,No,0
+ORD20048,24/03/2024 00:00,CUST1292,Abuja,Fct,P6001,Football,Sports,30,1,30,0,0,2.25,Expedited,5,37.25,Cash On Delivery,24/03/2024 00:00,27/03/2024 00:00,Yes,37.25
+ORD20049,10/10/2024 00:00,CUST1151,Kaduna,Kaduna State,P4001,Body Lotion,Health & Beauty,15,1,15,0.15,2.25,0.96,Standard,10,23.71,Credit Card,10/10/2024 00:00,14/10/2024 00:00,No,0
+ORD20050,17/11/2025 00:00,CUST1151,Kano,Kano State,P6001,Football,Sports,30,1,30,0,0,2.25,Standard,10,42.25,Credit Card,17/11/2025 00:00,20/11/2025 00:00,No,0
+ORD20051,11/07/2024 00:00,CUST1211,Kaduna,Kaduna State,P1001,Smartphone X1,Electronics,300,1,300,0.1,30,20.25,Standard,5,295.25,Bank Transfer,11/07/2024 00:00,14/07/2024 00:00,No,0
+ORD20052,20/06/2024 00:00,CUST1082,Kaduna,Kaduna State,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Two-Day,5,21.12,Paypal,20/06/2024 00:00,25/06/2024 00:00,Yes,21.12
+ORD20053,22/01/2025 00:00,CUST1081,Kaduna,Kaduna State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Two-Day,15,36.5,Cash On Delivery,22/01/2025 00:00,24/01/2025 00:00,No,0
+ORD20054,18/11/2024 00:00,CUST1281,Jos,Plateau State,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Standard,5,21.12,Paypal,18/11/2024 00:00,23/11/2024 00:00,No,0
+ORD20055,11/01/2024 00:00,CUST1162,Kano,Kano State,P1001,Smartphone X1,Electronics,300,1,300,0,0,22.5,Expedited,5,327.5,Cash On Delivery,11/01/2024 00:00,15/01/2024 00:00,No,0
+ORD20056,12/02/2025 00:00,CUST1230,Minna,Niger State,P3001,Men Denim Jeans,Clothing,45,2,90,0.05,4.5,6.41,Standard,15,106.91,Credit Card,12/02/2025 00:00,17/02/2025 00:00,No,0
+ORD20057,13/09/2024 00:00,CUST1162,Sokoto,Sokoto State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Standard,15,1305,Bank Transfer,13/09/2024 00:00,17/09/2024 00:00,No,0
+ORD20058,08/07/2025 00:00,CUST1182,Jos,Plateau State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Standard,15,111.75,Cash On Delivery,08/07/2025 00:00,10/07/2025 00:00,No,0
+ORD20059,24/03/2024 00:00,CUST1101,Abuja,Fct,P3001,Men Denim Jeans,Clothing,45,3,135,0,0,10.12,Expedited,5,150.12,Credit Card,24/03/2024 00:00,27/03/2024 00:00,No,0
+ORD20060,20/10/2025 00:00,CUST1229,Kaduna,Kaduna State,P6001,Football,Sports,30,1,30,0,0,2.25,Expedited,15,47.25,Paypal,20/10/2025 00:00,21/10/2025 00:00,No,0
+ORD20061,01/12/2024 00:00,CUST1199,Jos,Plateau State,P1001,Smartphone X1,Electronics,300,1,300,0.15,45,19.12,Standard,10,284.12,Cash On Delivery,01/12/2024 00:00,02/12/2024 00:00,No,0
+ORD20062,08/12/2024 00:00,CUST1296,Jos,Plateau State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Standard,5,144.75,Credit Card,08/12/2024 00:00,12/12/2024 00:00,No,0
+ORD20063,06/09/2024 00:00,CUST1125,Abuja,Fct,P1001,Smartphone X1,Electronics,300,1,300,0,0,22.5,Expedited,10,332.5,Credit Card,06/09/2024 00:00,09/09/2024 00:00,No,0
+ORD20064,23/01/2024 00:00,CUST1137,Kaduna,Kaduna State,P1002,Laptop Pro 15,Electronics,1200,2,2400,0,0,180,Two-Day,5,2585,Credit Card,23/01/2024 00:00,28/01/2024 00:00,No,0
+ORD20065,25/04/2025 00:00,CUST1148,Zaria,Kaduna State,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Standard,10,26.12,Credit Card,25/04/2025 00:00,26/04/2025 00:00,No,0
+ORD20066,05/06/2025 00:00,CUST1256,Zaria,Kaduna State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Two-Day,15,1305,Paypal,05/06/2025 00:00,06/06/2025 00:00,No,0
+ORD20067,23/11/2024 00:00,CUST1091,Lagos,Lagos State,P1003,Wireless Headphones,Electronics,90,2,180,0.1,18,12.15,Expedited,15,189.15,Credit Card,23/11/2024 00:00,28/11/2024 00:00,No,0
+ORD20068,30/07/2024 00:00,CUST1263,Jos,Plateau State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Standard,15,111.75,Credit Card,30/07/2024 00:00,04/08/2024 00:00,No,0
+ORD20069,02/11/2024 00:00,CUST1161,Abuja,Fct,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Expedited,15,111.75,Paypal,02/11/2024 00:00,07/11/2024 00:00,No,0
+ORD20070,06/03/2024 00:00,CUST1024,Abuja,Fct,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Two-Day,10,225,Bank Transfer,06/03/2024 00:00,09/03/2024 00:00,No,0
+ORD20071,25/03/2025 00:00,CUST1220,Jos,Plateau State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Two-Day,10,22.9,Bank Transfer,25/03/2025 00:00,26/03/2025 00:00,No,0
+ORD20072,24/06/2024 00:00,CUST1005,Minna,Niger State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Expedited,15,63.38,Bank Transfer,24/06/2024 00:00,29/06/2024 00:00,No,0
+ORD20073,20/01/2024 00:00,CUST1012,Minna,Niger State,P6001,Football,Sports,30,1,30,0,0,2.25,Standard,5,37.25,Cash On Delivery,20/01/2024 00:00,23/01/2024 00:00,No,0
+ORD20074,08/05/2024 00:00,CUST1296,Lagos,Lagos State,P6001,Football,Sports,30,1,30,0,0,2.25,Standard,5,37.25,Cash On Delivery,08/05/2024 00:00,09/05/2024 00:00,Yes,37.25
+ORD20075,14/02/2025 00:00,CUST1141,Minna,Niger State,P6001,Football,Sports,30,2,60,0.05,3,4.27,Standard,5,66.27,Credit Card,14/02/2025 00:00,15/02/2025 00:00,No,0
+ORD20076,30/06/2024 00:00,CUST1119,Sokoto,Sokoto State,P1001,Smartphone X1,Electronics,300,1,300,0,0,22.5,Two-Day,5,327.5,Cash On Delivery,30/06/2024 00:00,05/07/2024 00:00,No,0
+ORD20077,01/09/2024 00:00,CUST1256,Sokoto,Sokoto State,P2001,Cookware Set,Home & Kitchen,130,2,260,0.1,26,17.55,Expedited,15,266.55,Bank Transfer,01/09/2024 00:00,04/09/2024 00:00,No,0
+ORD20078,11/12/2024 00:00,CUST1245,Abuja,Fct,P3002,Women T‑Shirt,Clothing,20,2,40,0,0,3,Two-Day,15,58,Cash On Delivery,11/12/2024 00:00,15/12/2024 00:00,No,0
+ORD20079,07/06/2025 00:00,CUST1112,Kano,Kano State,P1002,Laptop Pro 15,Electronics,1200,3,3600,0,0,270,Two-Day,15,3885,Cash On Delivery,07/06/2025 00:00,09/06/2025 00:00,No,0
+ORD20080,01/11/2024 00:00,CUST1081,Abuja,Fct,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0.05,10,14.25,Two-Day,15,219.25,Cash On Delivery,01/11/2024 00:00,03/11/2024 00:00,Yes,219.25
+ORD20081,19/12/2025 00:00,CUST1282,Zaria,Kaduna State,P1003,Wireless Headphones,Electronics,90,1,90,0.15,13.5,5.74,Two-Day,5,87.24,Bank Transfer,19/12/2025 00:00,24/12/2025 00:00,No,0
+ORD20082,10/06/2025 00:00,CUST1043,Kaduna,Kaduna State,P6001,Football,Sports,30,3,90,0,0,6.75,Two-Day,15,111.75,Bank Transfer,10/06/2025 00:00,15/06/2025 00:00,No,0
+ORD20083,12/03/2025 00:00,CUST1090,Lagos,Lagos State,P2002,Vacuum Cleaner,Home & Kitchen,200,2,400,0,0,30,Standard,10,440,Credit Card,12/03/2025 00:00,15/03/2025 00:00,No,0
+ORD20084,28/01/2025 00:00,CUST1253,Minna,Niger State,P3001,Men Denim Jeans,Clothing,45,1,45,0.1,4.5,3.04,Two-Day,10,53.54,Paypal,28/01/2025 00:00,31/01/2025 00:00,No,0
+ORD20085,02/04/2024 00:00,CUST1278,Kano,Kano State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Expedited,5,17.9,Credit Card,02/04/2024 00:00,06/04/2024 00:00,No,0
+ORD20086,23/09/2025 00:00,CUST1136,Kaduna,Kaduna State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Two-Day,5,101.75,Credit Card,23/09/2025 00:00,27/09/2025 00:00,No,0
+ORD20087,19/03/2025 00:00,CUST1227,Abuja,Fct,P3002,Women T‑Shirt,Clothing,20,2,40,0,0,3,Expedited,15,58,Paypal,19/03/2025 00:00,22/03/2025 00:00,No,0
+ORD20088,29/09/2025 00:00,CUST1166,Sokoto,Sokoto State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Expedited,10,106.75,Paypal,29/09/2025 00:00,02/10/2025 00:00,No,0
+ORD20089,30/06/2025 00:00,CUST1061,Minna,Niger State,P6001,Football,Sports,30,2,60,0,0,4.5,Expedited,15,79.5,Credit Card,30/06/2025 00:00,01/07/2025 00:00,No,0
+ORD20090,22/01/2025 00:00,CUST1151,Jos,Plateau State,P2001,Cookware Set,Home & Kitchen,130,1,130,0.05,6.5,9.26,Two-Day,15,147.76,Credit Card,22/01/2025 00:00,23/01/2025 00:00,No,0
+ORD20091,22/01/2024 00:00,CUST1097,Sokoto,Sokoto State,P6001,Football,Sports,30,1,30,0,0,2.25,Standard,15,47.25,Paypal,22/01/2024 00:00,26/01/2024 00:00,Yes,47.25
+ORD20092,18/10/2024 00:00,CUST1133,Abuja,Fct,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Standard,5,101.75,Paypal,18/10/2024 00:00,23/10/2024 00:00,No,0
+ORD20093,13/09/2024 00:00,CUST1139,Jos,Plateau State,P6001,Football,Sports,30,1,30,0.05,1.5,2.14,Two-Day,5,35.64,Bank Transfer,13/09/2024 00:00,15/09/2024 00:00,Yes,35.64
+ORD20094,06/03/2025 00:00,CUST1086,Zaria,Kaduna State,P4001,Body Lotion,Health & Beauty,15,2,30,0,0,2.25,Standard,15,47.25,Paypal,06/03/2025 00:00,07/03/2025 00:00,No,0
+ORD20095,17/10/2024 00:00,CUST1292,Minna,Niger State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Standard,15,154.75,Credit Card,17/10/2024 00:00,22/10/2024 00:00,No,0
+ORD20096,30/10/2024 00:00,CUST1060,Kano,Kano State,P5001,Bestseller Novel,Books,12,2,24,0,0,1.8,Two-Day,10,35.8,Paypal,30/10/2024 00:00,04/11/2024 00:00,No,0
+ORD20097,14/11/2024 00:00,CUST1038,Zaria,Kaduna State,P6001,Football,Sports,30,1,30,0.15,4.5,1.91,Expedited,15,42.41,Cash On Delivery,14/11/2024 00:00,16/11/2024 00:00,No,0
+ORD20098,06/05/2024 00:00,CUST1270,Zaria,Kaduna State,P1001,Smartphone X1,Electronics,300,1,300,0.05,15,21.38,Expedited,15,321.38,Bank Transfer,06/05/2024 00:00,09/05/2024 00:00,No,0
+ORD20099,12/02/2025 00:00,CUST1179,Jos,Plateau State,P5001,Bestseller Novel,Books,12,1,12,0.15,1.8,0.76,Expedited,10,20.96,Bank Transfer,12/02/2025 00:00,17/02/2025 00:00,No,0
+ORD20100,27/07/2024 00:00,CUST1057,Minna,Niger State,P3002,Women T‑Shirt,Clothing,20,3,60,0,0,4.5,Two-Day,10,74.5,Credit Card,27/07/2024 00:00,29/07/2024 00:00,No,0
+ORD20101,07/09/2025 00:00,CUST1142,Abuja,Fct,P4001,Body Lotion,Health & Beauty,15,1,15,0.1,1.5,1.01,Two-Day,5,19.51,Bank Transfer,07/09/2025 00:00,09/09/2025 00:00,No,0
+ORD20102,26/09/2025 00:00,CUST1156,Lagos,Lagos State,P4001,Body Lotion,Health & Beauty,15,2,30,0.1,3,2.02,Two-Day,15,44.02,Paypal,26/09/2025 00:00,01/10/2025 00:00,No,0
+ORD20103,16/08/2025 00:00,CUST1184,Kano,Kano State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Expedited,5,26.5,Bank Transfer,16/08/2025 00:00,19/08/2025 00:00,No,0
+ORD20104,10/09/2024 00:00,CUST1172,Kaduna,Kaduna State,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Two-Day,5,21.12,Cash On Delivery,10/09/2024 00:00,14/09/2024 00:00,No,0
+ORD20105,10/10/2025 00:00,CUST1010,Minna,Niger State,P1003,Wireless Headphones,Electronics,90,2,180,0,0,13.5,Expedited,10,203.5,Cash On Delivery,10/10/2025 00:00,11/10/2025 00:00,No,0
+ORD20106,11/01/2024 00:00,CUST1091,Kaduna,Kaduna State,P6001,Football,Sports,30,3,90,0,0,6.75,Expedited,5,101.75,Cash On Delivery,11/01/2024 00:00,12/01/2024 00:00,No,0
+ORD20107,18/04/2025 00:00,CUST1210,Jos,Plateau State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Expedited,10,106.75,Bank Transfer,18/04/2025 00:00,20/04/2025 00:00,No,0
+ORD20108,16/02/2024 00:00,CUST1086,Sokoto,Sokoto State,P5001,Bestseller Novel,Books,12,2,24,0.1,2.4,1.62,Expedited,10,33.22,Credit Card,16/02/2024 00:00,20/02/2024 00:00,No,0
+ORD20109,09/03/2024 00:00,CUST1216,Kaduna,Kaduna State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Two-Day,5,53.38,Bank Transfer,09/03/2024 00:00,12/03/2024 00:00,No,0
+ORD20110,28/12/2025 00:00,CUST1010,Lagos,Lagos State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Standard,5,17.9,Credit Card,28/12/2025 00:00,30/12/2025 00:00,No,0
+ORD20111,07/11/2024 00:00,CUST1205,Jos,Plateau State,P6001,Football,Sports,30,2,60,0,0,4.5,Standard,5,69.5,Paypal,07/11/2024 00:00,08/11/2024 00:00,No,0
+ORD20112,11/03/2024 00:00,CUST1121,Zaria,Kaduna State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Standard,10,225,Cash On Delivery,11/03/2024 00:00,16/03/2024 00:00,No,0
+ORD20113,31/10/2024 00:00,CUST1239,Kano,Kano State,P1003,Wireless Headphones,Electronics,90,2,180,0,0,13.5,Two-Day,15,208.5,Cash On Delivery,31/10/2024 00:00,02/11/2024 00:00,No,0
+ORD20114,28/07/2025 00:00,CUST1182,Abuja,Fct,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Expedited,10,31.5,Paypal,28/07/2025 00:00,31/07/2025 00:00,No,0
+ORD20115,03/12/2024 00:00,CUST1247,Jos,Plateau State,P6001,Football,Sports,30,1,30,0.05,1.5,2.14,Two-Day,5,35.64,Paypal,03/12/2024 00:00,08/12/2024 00:00,No,0
+ORD20116,29/09/2025 00:00,CUST1132,Abuja,Fct,P1001,Smartphone X1,Electronics,300,3,900,0,0,67.5,Expedited,5,972.5,Cash On Delivery,29/09/2025 00:00,04/10/2025 00:00,No,0
+ORD20117,13/07/2024 00:00,CUST1221,Abuja,Fct,P2002,Vacuum Cleaner,Home & Kitchen,200,2,400,0,0,30,Standard,10,440,Paypal,13/07/2024 00:00,15/07/2024 00:00,No,0
+ORD20118,31/05/2024 00:00,CUST1296,Sokoto,Sokoto State,P6001,Football,Sports,30,1,30,0.1,3,2.02,Two-Day,5,34.02,Cash On Delivery,31/05/2024 00:00,01/06/2024 00:00,No,0
+ORD20119,21/05/2024 00:00,CUST1235,Lagos,Lagos State,P1003,Wireless Headphones,Electronics,90,3,270,0.05,13.5,19.24,Two-Day,10,285.74,Bank Transfer,21/05/2024 00:00,25/05/2024 00:00,No,0
+ORD20120,03/09/2024 00:00,CUST1184,Jos,Plateau State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Standard,15,36.5,Paypal,03/09/2024 00:00,06/09/2024 00:00,No,0
+ORD20121,21/08/2024 00:00,CUST1156,Kaduna,Kaduna State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0.05,60,85.5,Expedited,10,1235.5,Cash On Delivery,21/08/2024 00:00,25/08/2024 00:00,No,0
+ORD20122,16/02/2024 00:00,CUST1252,Kaduna,Kaduna State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Standard,5,101.75,Credit Card,16/02/2024 00:00,21/02/2024 00:00,No,0
+ORD20123,21/12/2025 00:00,CUST1110,Kano,Kano State,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Two-Day,15,31.12,Bank Transfer,21/12/2025 00:00,26/12/2025 00:00,No,0
+ORD20124,19/09/2025 00:00,CUST1175,Jos,Plateau State,P1002,Laptop Pro 15,Electronics,1200,2,2400,0,0,180,Two-Day,10,2590,Paypal,19/09/2025 00:00,23/09/2025 00:00,No,0
+ORD20125,26/08/2024 00:00,CUST1048,Abuja,Fct,P3002,Women T‑Shirt,Clothing,20,2,40,0,0,3,Expedited,10,53,Bank Transfer,26/08/2024 00:00,28/08/2024 00:00,No,0
+ORD20126,29/08/2024 00:00,CUST1193,Lagos,Lagos State,P2001,Cookware Set,Home & Kitchen,130,3,390,0,0,29.25,Expedited,10,429.25,Bank Transfer,29/08/2024 00:00,30/08/2024 00:00,No,0
+ORD20127,07/04/2025 00:00,CUST1280,Minna,Niger State,P2001,Cookware Set,Home & Kitchen,130,1,130,0.1,13,8.78,Two-Day,10,135.78,Cash On Delivery,07/04/2025 00:00,08/04/2025 00:00,No,0
+ORD20128,23/04/2024 00:00,CUST1169,Sokoto,Sokoto State,P6001,Football,Sports,30,2,60,0.05,3,4.27,Standard,5,66.27,Credit Card,23/04/2024 00:00,24/04/2024 00:00,No,0
+ORD20129,06/05/2025 00:00,CUST1023,Kano,Kano State,P1001,Smartphone X1,Electronics,300,1,300,0.05,15,21.38,Expedited,10,316.38,Bank Transfer,06/05/2025 00:00,08/05/2025 00:00,No,0
+ORD20130,13/02/2025 00:00,CUST1297,Jos,Plateau State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Standard,10,149.75,Paypal,13/02/2025 00:00,16/02/2025 00:00,No,0
+ORD20131,28/05/2024 00:00,CUST1015,Kano,Kano State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Two-Day,5,26.5,Credit Card,28/05/2024 00:00,01/06/2024 00:00,Yes,26.5
+ORD20132,13/05/2024 00:00,CUST1289,Minna,Niger State,P2002,Vacuum Cleaner,Home & Kitchen,200,2,400,0,0,30,Standard,10,440,Bank Transfer,13/05/2024 00:00,14/05/2024 00:00,No,0
+ORD20133,03/07/2025 00:00,CUST1155,Kano,Kano State,P1001,Smartphone X1,Electronics,300,1,300,0,0,22.5,Standard,5,327.5,Paypal,03/07/2025 00:00,05/07/2025 00:00,Yes,327.5
+ORD20134,18/03/2025 00:00,CUST1021,Jos,Plateau State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Standard,10,1300,Paypal,18/03/2025 00:00,23/03/2025 00:00,No,0
+ORD20135,12/10/2024 00:00,CUST1014,Sokoto,Sokoto State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Two-Day,5,101.75,Paypal,12/10/2024 00:00,14/10/2024 00:00,No,0
+ORD20136,08/10/2025 00:00,CUST1229,Minna,Niger State,P3001,Men Denim Jeans,Clothing,45,1,45,0.05,2.25,3.21,Expedited,10,55.96,Cash On Delivery,08/10/2025 00:00,12/10/2025 00:00,No,0
+ORD20137,25/08/2025 00:00,CUST1124,Abuja,Fct,P1001,Smartphone X1,Electronics,300,2,600,0,0,45,Two-Day,10,655,Paypal,25/08/2025 00:00,30/08/2025 00:00,No,0
+ORD20138,15/12/2025 00:00,CUST1179,Minna,Niger State,P6001,Football,Sports,30,1,30,0,0,2.25,Two-Day,5,37.25,Credit Card,15/12/2025 00:00,17/12/2025 00:00,No,0
+ORD20139,23/07/2024 00:00,CUST1180,Minna,Niger State,P5001,Bestseller Novel,Books,12,2,24,0,0,1.8,Two-Day,5,30.8,Bank Transfer,23/07/2024 00:00,27/07/2024 00:00,No,0
+ORD20140,15/03/2024 00:00,CUST1035,Jos,Plateau State,P6001,Football,Sports,30,1,30,0,0,2.25,Expedited,5,37.25,Paypal,15/03/2024 00:00,18/03/2024 00:00,No,0
+ORD20141,27/07/2024 00:00,CUST1049,Lagos,Lagos State,P1001,Smartphone X1,Electronics,300,1,300,0,0,22.5,Expedited,15,337.5,Credit Card,27/07/2024 00:00,30/07/2024 00:00,No,0
+ORD20142,25/04/2025 00:00,CUST1027,Kaduna,Kaduna State,P5001,Bestseller Novel,Books,12,1,12,0.05,0.6,0.86,Two-Day,10,22.26,Cash On Delivery,25/04/2025 00:00,28/04/2025 00:00,No,0
+ORD20143,09/05/2024 00:00,CUST1050,Zaria,Kaduna State,P1001,Smartphone X1,Electronics,300,1,300,0,0,22.5,Two-Day,10,332.5,Credit Card,09/05/2024 00:00,13/05/2024 00:00,No,0
+ORD20144,25/12/2025 00:00,CUST1226,Lagos,Lagos State,P3002,Women T‑Shirt,Clothing,20,2,40,0.05,2,2.85,Expedited,15,55.85,Credit Card,25/12/2025 00:00,30/12/2025 00:00,No,0
+ORD20145,13/09/2024 00:00,CUST1268,Jos,Plateau State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0.05,60,85.5,Expedited,15,1240.5,Credit Card,13/09/2024 00:00,17/09/2024 00:00,No,0
+ORD20146,29/02/2024 00:00,CUST1154,Kano,Kano State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Two-Day,5,26.5,Cash On Delivery,29/02/2024 00:00,02/03/2024 00:00,No,0
+ORD20147,24/01/2025 00:00,CUST1160,Lagos,Lagos State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Standard,15,230,Cash On Delivery,24/01/2025 00:00,26/01/2025 00:00,No,0
+ORD20148,29/05/2025 00:00,CUST1048,Minna,Niger State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Two-Day,15,154.75,Paypal,29/05/2025 00:00,31/05/2025 00:00,No,0
+ORD20149,04/02/2025 00:00,CUST1169,Zaria,Kaduna State,P5001,Bestseller Novel,Books,12,1,12,0.05,0.6,0.86,Two-Day,10,22.26,Bank Transfer,04/02/2025 00:00,05/02/2025 00:00,No,0
+ORD20150,20/06/2025 00:00,CUST1053,Lagos,Lagos State,P4001,Body Lotion,Health & Beauty,15,4,60,0.1,6,4.05,Two-Day,15,73.05,Credit Card,20/06/2025 00:00,21/06/2025 00:00,No,0
+ORD20151,14/01/2025 00:00,CUST1149,Lagos,Lagos State,P2001,Cookware Set,Home & Kitchen,130,1,130,0.05,6.5,9.26,Expedited,15,147.76,Cash On Delivery,14/01/2025 00:00,17/01/2025 00:00,No,0
+ORD20152,09/05/2024 00:00,CUST1049,Minna,Niger State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Two-Day,10,58.38,Credit Card,09/05/2024 00:00,14/05/2024 00:00,No,0
+ORD20153,17/11/2024 00:00,CUST1022,Jos,Plateau State,P5001,Bestseller Novel,Books,12,1,12,0.05,0.6,0.86,Expedited,10,22.26,Cash On Delivery,17/11/2024 00:00,19/11/2024 00:00,No,0
+ORD20154,29/11/2024 00:00,CUST1163,Zaria,Kaduna State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Two-Day,5,220,Credit Card,29/11/2024 00:00,30/11/2024 00:00,No,0
+ORD20155,20/11/2024 00:00,CUST1269,Kaduna,Kaduna State,P1003,Wireless Headphones,Electronics,90,2,180,0,0,13.5,Two-Day,15,208.5,Cash On Delivery,20/11/2024 00:00,23/11/2024 00:00,No,0
+ORD20156,13/10/2024 00:00,CUST1167,Kaduna,Kaduna State,P4001,Body Lotion,Health & Beauty,15,3,45,0,0,3.38,Expedited,15,63.38,Bank Transfer,13/10/2024 00:00,17/10/2024 00:00,No,0
+ORD20157,15/08/2025 00:00,CUST1186,Minna,Niger State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Standard,10,1300,Paypal,15/08/2025 00:00,18/08/2025 00:00,No,0
+ORD20158,14/09/2024 00:00,CUST1024,Sokoto,Sokoto State,P6001,Football,Sports,30,1,30,0.05,1.5,2.14,Standard,5,35.64,Cash On Delivery,14/09/2024 00:00,17/09/2024 00:00,No,0
+ORD20159,10/11/2024 00:00,CUST1185,Zaria,Kaduna State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Expedited,5,26.5,Cash On Delivery,10/11/2024 00:00,12/11/2024 00:00,No,0
+ORD20160,31/05/2024 00:00,CUST1272,Lagos,Lagos State,P1001,Smartphone X1,Electronics,300,1,300,0.05,15,21.38,Expedited,10,316.38,Paypal,31/05/2024 00:00,03/06/2024 00:00,No,0
+ORD20161,08/07/2024 00:00,CUST1288,Lagos,Lagos State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Expedited,5,1295,Credit Card,08/07/2024 00:00,11/07/2024 00:00,No,0
+ORD20162,28/07/2024 00:00,CUST1050,Jos,Plateau State,P1002,Laptop Pro 15,Electronics,1200,2,2400,0,0,180,Expedited,10,2590,Credit Card,28/07/2024 00:00,31/07/2024 00:00,No,0
+ORD20163,10/08/2024 00:00,CUST1292,Kaduna,Kaduna State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Two-Day,5,1295,Paypal,10/08/2024 00:00,15/08/2024 00:00,No,0
+ORD20164,27/08/2025 00:00,CUST1261,Minna,Niger State,P1001,Smartphone X1,Electronics,300,1,300,0.05,15,21.38,Expedited,15,321.38,Bank Transfer,27/08/2025 00:00,30/08/2025 00:00,No,0
+ORD20165,04/09/2025 00:00,CUST1145,Abuja,Fct,P2001,Cookware Set,Home & Kitchen,130,3,390,0,0,29.25,Expedited,10,429.25,Paypal,04/09/2025 00:00,05/09/2025 00:00,Yes,429.25
+ORD20166,11/07/2025 00:00,CUST1217,Sokoto,Sokoto State,P3001,Men Denim Jeans,Clothing,45,4,180,0,0,13.5,Standard,10,203.5,Bank Transfer,11/07/2025 00:00,13/07/2025 00:00,No,0
+ORD20167,25/07/2024 00:00,CUST1037,Jos,Plateau State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Standard,5,26.5,Bank Transfer,25/07/2024 00:00,30/07/2024 00:00,No,0
+ORD20168,17/02/2025 00:00,CUST1263,Sokoto,Sokoto State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Two-Day,5,1295,Bank Transfer,17/02/2025 00:00,22/02/2025 00:00,No,0
+ORD20169,07/01/2024 00:00,CUST1020,Zaria,Kaduna State,P4001,Body Lotion,Health & Beauty,15,1,15,0.1,1.5,1.01,Standard,5,19.51,Cash On Delivery,07/01/2024 00:00,10/01/2024 00:00,No,0
+ORD20170,08/06/2025 00:00,CUST1002,Kaduna,Kaduna State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Two-Day,5,220,Cash On Delivery,08/06/2025 00:00,11/06/2025 00:00,No,0
+ORD20171,25/02/2025 00:00,CUST1278,Jos,Plateau State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Two-Day,15,27.9,Bank Transfer,25/02/2025 00:00,27/02/2025 00:00,No,0
+ORD20172,05/11/2024 00:00,CUST1297,Jos,Plateau State,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Standard,5,21.12,Bank Transfer,05/11/2024 00:00,06/11/2024 00:00,No,0
+ORD20173,13/10/2025 00:00,CUST1071,Lagos,Lagos State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0.05,10,14.25,Standard,15,219.25,Bank Transfer,13/10/2025 00:00,16/10/2025 00:00,No,0
+ORD20174,06/03/2025 00:00,CUST1289,Kano,Kano State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Expedited,10,58.38,Cash On Delivery,06/03/2025 00:00,09/03/2025 00:00,No,0
+ORD20175,05/01/2024 00:00,CUST1009,Kaduna,Kaduna State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Expedited,15,1305,Cash On Delivery,05/01/2024 00:00,10/01/2024 00:00,No,0
+ORD20176,13/10/2025 00:00,CUST1237,Jos,Plateau State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Two-Day,5,53.38,Bank Transfer,13/10/2025 00:00,15/10/2025 00:00,No,0
+ORD20177,29/04/2024 00:00,CUST1172,Minna,Niger State,P4001,Body Lotion,Health & Beauty,15,1,15,0.05,0.75,1.07,Expedited,10,25.32,Cash On Delivery,29/04/2024 00:00,30/04/2024 00:00,No,0
+ORD20178,19/01/2024 00:00,CUST1074,Minna,Niger State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Standard,15,111.75,Cash On Delivery,19/01/2024 00:00,20/01/2024 00:00,No,0
+ORD20179,21/10/2024 00:00,CUST1188,Lagos,Lagos State,P6001,Football,Sports,30,1,30,0,0,2.25,Expedited,10,42.25,Cash On Delivery,21/10/2024 00:00,24/10/2024 00:00,No,0
+ORD20180,08/12/2025 00:00,CUST1263,Jos,Plateau State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Expedited,5,26.5,Bank Transfer,08/12/2025 00:00,10/12/2025 00:00,No,0
+ORD20181,18/05/2025 00:00,CUST1171,Sokoto,Sokoto State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Expedited,15,154.75,Bank Transfer,18/05/2025 00:00,22/05/2025 00:00,No,0
+ORD20182,30/07/2024 00:00,CUST1046,Kaduna,Kaduna State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Standard,15,111.75,Paypal,30/07/2024 00:00,01/08/2024 00:00,No,0
+ORD20183,08/06/2024 00:00,CUST1013,Kaduna,Kaduna State,P2002,Vacuum Cleaner,Home & Kitchen,200,3,600,0.05,30,42.75,Expedited,15,627.75,Credit Card,08/06/2024 00:00,09/06/2024 00:00,No,0
+ORD20184,01/04/2024 00:00,CUST1204,Lagos,Lagos State,P1001,Smartphone X1,Electronics,300,1,300,0,0,22.5,Expedited,15,337.5,Credit Card,01/04/2024 00:00,03/04/2024 00:00,No,0
+ORD20185,08/03/2025 00:00,CUST1281,Abuja,Fct,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Expedited,15,27.9,Credit Card,08/03/2025 00:00,12/03/2025 00:00,No,0
+ORD20186,28/09/2024 00:00,CUST1052,Minna,Niger State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Two-Day,5,1295,Cash On Delivery,28/09/2024 00:00,01/10/2024 00:00,No,0
+ORD20187,07/08/2024 00:00,CUST1091,Sokoto,Sokoto State,P1001,Smartphone X1,Electronics,300,2,600,0,0,45,Two-Day,5,650,Credit Card,07/08/2024 00:00,09/08/2024 00:00,No,0
+ORD20188,28/10/2024 00:00,CUST1199,Kaduna,Kaduna State,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Two-Day,10,26.12,Bank Transfer,28/10/2024 00:00,01/11/2024 00:00,No,0
+ORD20189,05/05/2025 00:00,CUST1201,Kaduna,Kaduna State,P6001,Football,Sports,30,1,30,0,0,2.25,Standard,15,47.25,Paypal,05/05/2025 00:00,09/05/2025 00:00,No,0
+ORD20190,17/06/2025 00:00,CUST1197,Abuja,Fct,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Expedited,5,101.75,Bank Transfer,17/06/2025 00:00,20/06/2025 00:00,No,0
+ORD20191,10/10/2025 00:00,CUST1274,Jos,Plateau State,P4001,Body Lotion,Health & Beauty,15,2,30,0,0,2.25,Two-Day,5,37.25,Paypal,10/10/2025 00:00,13/10/2025 00:00,Yes,37.25
+ORD20192,09/01/2024 00:00,CUST1172,Sokoto,Sokoto State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Two-Day,5,1295,Cash On Delivery,09/01/2024 00:00,10/01/2024 00:00,No,0
+ORD20193,02/10/2025 00:00,CUST1136,Kano,Kano State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Expedited,15,27.9,Cash On Delivery,02/10/2025 00:00,07/10/2025 00:00,No,0
+ORD20194,08/10/2024 00:00,CUST1051,Abuja,Fct,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Expedited,5,17.9,Paypal,08/10/2024 00:00,09/10/2024 00:00,No,0
+ORD20195,19/09/2024 00:00,CUST1210,Lagos,Lagos State,P1003,Wireless Headphones,Electronics,90,1,90,0.1,9,6.08,Standard,5,92.08,Bank Transfer,19/09/2024 00:00,21/09/2024 00:00,No,0
+ORD20196,15/09/2025 00:00,CUST1287,Kano,Kano State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Two-Day,5,17.9,Paypal,15/09/2025 00:00,18/09/2025 00:00,No,0
+ORD20197,06/05/2025 00:00,CUST1211,Jos,Plateau State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Two-Day,10,225,Cash On Delivery,06/05/2025 00:00,10/05/2025 00:00,No,0
+ORD20198,25/05/2025 00:00,CUST1136,Sokoto,Sokoto State,P2001,Cookware Set,Home & Kitchen,130,1,130,0.05,6.5,9.26,Expedited,10,142.76,Bank Transfer,25/05/2025 00:00,26/05/2025 00:00,No,0
+ORD20199,12/09/2025 00:00,CUST1123,Zaria,Kaduna State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Standard,10,106.75,Bank Transfer,12/09/2025 00:00,13/09/2025 00:00,No,0
+ORD20200,31/05/2025 00:00,CUST1273,Lagos,Lagos State,P1001,Smartphone X1,Electronics,300,1,300,0,0,22.5,Expedited,15,337.5,Paypal,31/05/2025 00:00,02/06/2025 00:00,No,0
+ORD20201,20/05/2025 00:00,CUST1109,Zaria,Kaduna State,P6001,Football,Sports,30,3,90,0,0,6.75,Expedited,15,111.75,Cash On Delivery,20/05/2025 00:00,23/05/2025 00:00,No,0
+ORD20202,16/12/2025 00:00,CUST1060,Lagos,Lagos State,P1003,Wireless Headphones,Electronics,90,1,90,0.15,13.5,5.74,Expedited,5,87.24,Paypal,16/12/2025 00:00,19/12/2025 00:00,No,0
+ORD20203,25/06/2024 00:00,CUST1045,Kano,Kano State,P6001,Football,Sports,30,4,120,0,0,9,Two-Day,10,139,Credit Card,25/06/2024 00:00,29/06/2024 00:00,No,0
+ORD20204,04/08/2025 00:00,CUST1115,Abuja,Fct,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Two-Day,15,27.9,Cash On Delivery,04/08/2025 00:00,09/08/2025 00:00,No,0
+ORD20205,21/01/2024 00:00,CUST1216,Zaria,Kaduna State,P1001,Smartphone X1,Electronics,300,1,300,0.05,15,21.38,Expedited,15,321.38,Paypal,21/01/2024 00:00,24/01/2024 00:00,No,0
+ORD20206,28/11/2025 00:00,CUST1043,Abuja,Fct,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Two-Day,10,225,Cash On Delivery,28/11/2025 00:00,01/12/2025 00:00,No,0
+ORD20207,04/05/2024 00:00,CUST1137,Minna,Niger State,P1001,Smartphone X1,Electronics,300,1,300,0,0,22.5,Expedited,15,337.5,Cash On Delivery,04/05/2024 00:00,07/05/2024 00:00,No,0
+ORD20208,26/05/2024 00:00,CUST1071,Kaduna,Kaduna State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Two-Day,5,220,Credit Card,26/05/2024 00:00,30/05/2024 00:00,No,0
+ORD20209,15/04/2024 00:00,CUST1177,Kaduna,Kaduna State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0.15,180,76.5,Expedited,15,1111.5,Cash On Delivery,15/04/2024 00:00,20/04/2024 00:00,No,0
+ORD20210,20/02/2024 00:00,CUST1127,Jos,Plateau State,P5001,Bestseller Novel,Books,12,2,24,0,0,1.8,Expedited,15,40.8,Credit Card,20/02/2024 00:00,21/02/2024 00:00,No,0
+ORD20211,15/01/2025 00:00,CUST1040,Lagos,Lagos State,P3002,Women T‑Shirt,Clothing,20,2,40,0,0,3,Two-Day,15,58,Paypal,15/01/2025 00:00,18/01/2025 00:00,No,0
+ORD20212,09/01/2024 00:00,CUST1048,Zaria,Kaduna State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Two-Day,15,230,Cash On Delivery,09/01/2024 00:00,14/01/2024 00:00,No,0
+ORD20213,12/09/2025 00:00,CUST1057,Zaria,Kaduna State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Expedited,15,111.75,Bank Transfer,12/09/2025 00:00,14/09/2025 00:00,Yes,111.75
+ORD20214,04/03/2025 00:00,CUST1046,Sokoto,Sokoto State,P6001,Football,Sports,30,1,30,0,0,2.25,Two-Day,15,47.25,Bank Transfer,04/03/2025 00:00,07/03/2025 00:00,No,0
+ORD20215,16/07/2025 00:00,CUST1154,Abuja,Fct,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Standard,10,225,Credit Card,16/07/2025 00:00,19/07/2025 00:00,No,0
+ORD20216,03/09/2024 00:00,CUST1260,Kaduna,Kaduna State,P1003,Wireless Headphones,Electronics,90,2,180,0.05,9,12.82,Standard,15,198.82,Bank Transfer,03/09/2024 00:00,08/09/2024 00:00,No,0
+ORD20217,05/07/2025 00:00,CUST1140,Kano,Kano State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0.05,10,14.25,Expedited,10,214.25,Cash On Delivery,05/07/2025 00:00,10/07/2025 00:00,No,0
+ORD20218,26/12/2025 00:00,CUST1242,Lagos,Lagos State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Standard,5,26.5,Cash On Delivery,26/12/2025 00:00,27/12/2025 00:00,No,0
+ORD20219,22/07/2025 00:00,CUST1035,Zaria,Kaduna State,P5001,Bestseller Novel,Books,12,1,12,0.1,1.2,0.81,Two-Day,15,26.61,Credit Card,22/07/2025 00:00,26/07/2025 00:00,Yes,26.61
+ORD20220,08/06/2024 00:00,CUST1157,Sokoto,Sokoto State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Standard,15,111.75,Paypal,08/06/2024 00:00,12/06/2024 00:00,No,0
+ORD20221,08/01/2025 00:00,CUST1110,Sokoto,Sokoto State,P3001,Men Denim Jeans,Clothing,45,2,90,0,0,6.75,Expedited,5,101.75,Paypal,08/01/2025 00:00,13/01/2025 00:00,No,0
+ORD20222,19/02/2025 00:00,CUST1079,Minna,Niger State,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Standard,5,21.12,Paypal,19/02/2025 00:00,20/02/2025 00:00,No,0
+ORD20223,09/01/2024 00:00,CUST1138,Jos,Plateau State,P6001,Football,Sports,30,1,30,0.05,1.5,2.14,Two-Day,15,45.64,Credit Card,09/01/2024 00:00,11/01/2024 00:00,No,0
+ORD20224,13/04/2024 00:00,CUST1067,Minna,Niger State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Expedited,5,17.9,Credit Card,13/04/2024 00:00,17/04/2024 00:00,No,0
+ORD20225,14/01/2025 00:00,CUST1221,Minna,Niger State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Expedited,15,230,Bank Transfer,14/01/2025 00:00,15/01/2025 00:00,No,0
+ORD20226,27/04/2025 00:00,CUST1236,Kano,Kano State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Standard,5,1295,Credit Card,27/04/2025 00:00,02/05/2025 00:00,Yes,1295
+ORD20227,22/05/2024 00:00,CUST1021,Kaduna,Kaduna State,P6001,Football,Sports,30,1,30,0,0,2.25,Two-Day,15,47.25,Cash On Delivery,22/05/2024 00:00,23/05/2024 00:00,No,0
+ORD20228,01/11/2025 00:00,CUST1282,Jos,Plateau State,P6001,Football,Sports,30,1,30,0.05,1.5,2.14,Expedited,15,45.64,Bank Transfer,01/11/2025 00:00,02/11/2025 00:00,No,0
+ORD20229,29/07/2025 00:00,CUST1125,Abuja,Fct,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Expedited,15,1305,Paypal,29/07/2025 00:00,31/07/2025 00:00,No,0
+ORD20230,08/03/2025 00:00,CUST1059,Kano,Kano State,P3001,Men Denim Jeans,Clothing,45,3,135,0,0,10.12,Two-Day,10,155.12,Cash On Delivery,08/03/2025 00:00,10/03/2025 00:00,No,0
+ORD20231,21/03/2025 00:00,CUST1129,Kano,Kano State,P6001,Football,Sports,30,1,30,0.1,3,2.02,Expedited,10,39.02,Bank Transfer,21/03/2025 00:00,25/03/2025 00:00,No,0
+ORD20232,27/03/2025 00:00,CUST1183,Jos,Plateau State,P3001,Men Denim Jeans,Clothing,45,3,135,0,0,10.12,Two-Day,5,150.12,Paypal,27/03/2025 00:00,29/03/2025 00:00,No,0
+ORD20233,15/12/2024 00:00,CUST1265,Lagos,Lagos State,P1001,Smartphone X1,Electronics,300,1,300,0.15,45,19.12,Two-Day,5,279.12,Credit Card,15/12/2024 00:00,20/12/2024 00:00,No,0
+ORD20234,20/10/2025 00:00,CUST1262,Lagos,Lagos State,P5001,Bestseller Novel,Books,12,2,24,0,0,1.8,Two-Day,15,40.8,Bank Transfer,20/10/2025 00:00,24/10/2025 00:00,No,0
+ORD20235,23/01/2024 00:00,CUST1174,Kaduna,Kaduna State,P6001,Football,Sports,30,1,30,0,0,2.25,Expedited,15,47.25,Paypal,23/01/2024 00:00,26/01/2024 00:00,No,0
+ORD20236,21/08/2024 00:00,CUST1196,Lagos,Lagos State,P3002,Women T‑Shirt,Clothing,20,1,20,0.05,1,1.42,Standard,5,25.42,Paypal,21/08/2024 00:00,23/08/2024 00:00,No,0
+ORD20237,24/11/2025 00:00,CUST1171,Zaria,Kaduna State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Expedited,5,144.75,Bank Transfer,24/11/2025 00:00,25/11/2025 00:00,No,0
+ORD20238,18/03/2025 00:00,CUST1189,Sokoto,Sokoto State,P2001,Cookware Set,Home & Kitchen,130,1,130,0.05,6.5,9.26,Expedited,15,147.76,Bank Transfer,18/03/2025 00:00,23/03/2025 00:00,No,0
+ORD20239,14/05/2025 00:00,CUST1277,Kaduna,Kaduna State,P6001,Football,Sports,30,1,30,0.05,1.5,2.14,Expedited,15,45.64,Paypal,14/05/2025 00:00,15/05/2025 00:00,No,0
+ORD20240,28/02/2025 00:00,CUST1076,Kano,Kano State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Standard,15,36.5,Credit Card,28/02/2025 00:00,02/03/2025 00:00,No,0
+ORD20241,21/01/2025 00:00,CUST1038,Lagos,Lagos State,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Two-Day,15,31.12,Cash On Delivery,21/01/2025 00:00,24/01/2025 00:00,No,0
+ORD20242,18/04/2024 00:00,CUST1079,Lagos,Lagos State,P5001,Bestseller Novel,Books,12,2,24,0,0,1.8,Expedited,5,30.8,Credit Card,18/04/2024 00:00,21/04/2024 00:00,No,0
+ORD20243,04/07/2025 00:00,CUST1237,Minna,Niger State,P2001,Cookware Set,Home & Kitchen,130,1,130,0.05,6.5,9.26,Two-Day,5,137.76,Bank Transfer,04/07/2025 00:00,07/07/2025 00:00,No,0
+ORD20244,11/06/2024 00:00,CUST1002,Abuja,Fct,P3002,Women T‑Shirt,Clothing,20,2,40,0.1,4,2.7,Two-Day,15,53.7,Paypal,11/06/2024 00:00,13/06/2024 00:00,No,0
+ORD20245,03/07/2025 00:00,CUST1175,Abuja,Fct,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Two-Day,5,1295,Paypal,03/07/2025 00:00,05/07/2025 00:00,No,0
+ORD20246,23/01/2024 00:00,CUST1089,Minna,Niger State,P6001,Football,Sports,30,1,30,0,0,2.25,Two-Day,15,47.25,Paypal,23/01/2024 00:00,24/01/2024 00:00,No,0
+ORD20247,12/06/2025 00:00,CUST1218,Abuja,Fct,P1001,Smartphone X1,Electronics,300,1,300,0,0,22.5,Two-Day,10,332.5,Paypal,12/06/2025 00:00,14/06/2025 00:00,No,0
+ORD20248,11/02/2025 00:00,CUST1258,Kaduna,Kaduna State,P2001,Cookware Set,Home & Kitchen,130,3,390,0,0,29.25,Expedited,15,434.25,Credit Card,11/02/2025 00:00,13/02/2025 00:00,No,0
+ORD20249,01/04/2024 00:00,CUST1290,Kano,Kano State,P3002,Women T‑Shirt,Clothing,20,2,40,0,0,3,Two-Day,5,48,Credit Card,01/04/2024 00:00,04/04/2024 00:00,Yes,48
+ORD20250,01/09/2024 00:00,CUST1245,Kano,Kano State,P5001,Bestseller Novel,Books,12,1,12,0.05,0.6,0.86,Standard,15,27.26,Credit Card,01/09/2024 00:00,06/09/2024 00:00,Yes,27.26
+ORD20251,01/03/2025 00:00,CUST1159,Sokoto,Sokoto State,P2002,Vacuum Cleaner,Home & Kitchen,200,4,800,0,0,60,Standard,15,875,Paypal,01/03/2025 00:00,05/03/2025 00:00,No,0
+ORD20252,13/10/2025 00:00,CUST1287,Zaria,Kaduna State,P5001,Bestseller Novel,Books,12,2,24,0.05,1.2,1.71,Expedited,15,39.51,Bank Transfer,13/10/2025 00:00,18/10/2025 00:00,No,0
+ORD20253,16/12/2025 00:00,CUST1283,Lagos,Lagos State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Expedited,5,26.5,Paypal,16/12/2025 00:00,20/12/2025 00:00,No,0
+ORD20254,04/06/2024 00:00,CUST1253,Jos,Plateau State,P3001,Men Denim Jeans,Clothing,45,1,45,0.15,6.75,2.87,Expedited,10,51.12,Cash On Delivery,04/06/2024 00:00,07/06/2024 00:00,No,0
+ORD20255,10/12/2024 00:00,CUST1089,Kaduna,Kaduna State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Standard,10,58.38,Cash On Delivery,10/12/2024 00:00,12/12/2024 00:00,No,0
+ORD20256,28/01/2025 00:00,CUST1130,Jos,Plateau State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Expedited,5,53.38,Bank Transfer,28/01/2025 00:00,02/02/2025 00:00,No,0
+ORD20257,15/09/2024 00:00,CUST1006,Lagos,Lagos State,P1003,Wireless Headphones,Electronics,90,4,360,0,0,27,Standard,10,397,Paypal,15/09/2024 00:00,17/09/2024 00:00,No,0
+ORD20258,15/03/2025 00:00,CUST1036,Abuja,Fct,P5001,Bestseller Novel,Books,12,2,24,0,0,1.8,Two-Day,15,40.8,Paypal,15/03/2025 00:00,18/03/2025 00:00,No,0
+ORD20259,16/04/2025 00:00,CUST1295,Lagos,Lagos State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Expedited,10,22.9,Paypal,16/04/2025 00:00,20/04/2025 00:00,No,0
+ORD20260,14/11/2025 00:00,CUST1042,Kaduna,Kaduna State,P1003,Wireless Headphones,Electronics,90,2,180,0.1,18,12.15,Standard,5,179.15,Credit Card,14/11/2025 00:00,18/11/2025 00:00,No,0
+ORD20261,29/11/2025 00:00,CUST1207,Minna,Niger State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Standard,10,31.5,Paypal,29/11/2025 00:00,02/12/2025 00:00,No,0
+ORD20262,25/01/2025 00:00,CUST1275,Kaduna,Kaduna State,P2001,Cookware Set,Home & Kitchen,130,1,130,0.05,6.5,9.26,Standard,10,142.76,Cash On Delivery,25/01/2025 00:00,26/01/2025 00:00,No,0
+ORD20263,01/07/2024 00:00,CUST1103,Minna,Niger State,P3001,Men Denim Jeans,Clothing,45,2,90,0,0,6.75,Standard,15,111.75,Cash On Delivery,01/07/2024 00:00,02/07/2024 00:00,No,0
+ORD20264,02/07/2025 00:00,CUST1073,Zaria,Kaduna State,P4001,Body Lotion,Health & Beauty,15,1,15,0.1,1.5,1.01,Expedited,15,29.51,Credit Card,02/07/2025 00:00,05/07/2025 00:00,No,0
+ORD20265,23/12/2025 00:00,CUST1263,Jos,Plateau State,P2001,Cookware Set,Home & Kitchen,130,2,260,0.1,26,17.55,Expedited,15,266.55,Credit Card,23/12/2025 00:00,24/12/2025 00:00,No,0
+ORD20266,16/01/2025 00:00,CUST1148,Kaduna,Kaduna State,P6001,Football,Sports,30,2,60,0,0,4.5,Expedited,15,79.5,Cash On Delivery,16/01/2025 00:00,19/01/2025 00:00,No,0
+ORD20267,12/06/2024 00:00,CUST1029,Kano,Kano State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Standard,15,63.38,Credit Card,12/06/2024 00:00,14/06/2024 00:00,No,0
+ORD20268,08/09/2024 00:00,CUST1057,Minna,Niger State,P6001,Football,Sports,30,2,60,0,0,4.5,Two-Day,5,69.5,Paypal,08/09/2024 00:00,11/09/2024 00:00,No,0
+ORD20269,25/12/2025 00:00,CUST1258,Minna,Niger State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0.1,120,81,Standard,10,1171,Bank Transfer,25/12/2025 00:00,29/12/2025 00:00,No,0
+ORD20270,17/09/2024 00:00,CUST1264,Lagos,Lagos State,P6001,Football,Sports,30,2,60,0.05,3,4.27,Two-Day,15,76.27,Credit Card,17/09/2024 00:00,21/09/2024 00:00,No,0
+ORD20271,22/01/2025 00:00,CUST1061,Abuja,Fct,P6001,Football,Sports,30,2,60,0.15,9,3.82,Two-Day,15,69.82,Bank Transfer,22/01/2025 00:00,27/01/2025 00:00,No,0
+ORD20272,08/02/2024 00:00,CUST1279,Abuja,Fct,P2002,Vacuum Cleaner,Home & Kitchen,200,2,400,0.1,40,27,Two-Day,5,392,Paypal,08/02/2024 00:00,10/02/2024 00:00,No,0
+ORD20273,07/10/2024 00:00,CUST1283,Abuja,Fct,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Two-Day,5,26.5,Bank Transfer,07/10/2024 00:00,10/10/2024 00:00,No,0
+ORD20274,10/04/2024 00:00,CUST1204,Jos,Plateau State,P4001,Body Lotion,Health & Beauty,15,1,15,0.05,0.75,1.07,Two-Day,15,30.32,Paypal,10/04/2024 00:00,11/04/2024 00:00,No,0
+ORD20275,15/02/2024 00:00,CUST1095,Kano,Kano State,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Expedited,5,21.12,Paypal,15/02/2024 00:00,20/02/2024 00:00,No,0
+ORD20276,06/04/2024 00:00,CUST1201,Zaria,Kaduna State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Standard,15,154.75,Credit Card,06/04/2024 00:00,11/04/2024 00:00,No,0
+ORD20277,26/06/2024 00:00,CUST1216,Sokoto,Sokoto State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Two-Day,15,154.75,Paypal,26/06/2024 00:00,27/06/2024 00:00,No,0
+ORD20278,04/01/2025 00:00,CUST1260,Minna,Niger State,P5001,Bestseller Novel,Books,12,1,12,0.15,1.8,0.76,Standard,15,25.96,Paypal,04/01/2025 00:00,06/01/2025 00:00,No,0
+ORD20279,23/02/2024 00:00,CUST1184,Kaduna,Kaduna State,P3001,Men Denim Jeans,Clothing,45,1,45,0.15,6.75,2.87,Expedited,5,46.12,Credit Card,23/02/2024 00:00,25/02/2024 00:00,No,0
+ORD20280,25/04/2025 00:00,CUST1090,Lagos,Lagos State,P2002,Vacuum Cleaner,Home & Kitchen,200,2,400,0,0,30,Standard,10,440,Credit Card,25/04/2025 00:00,28/04/2025 00:00,No,0
+ORD20281,13/02/2025 00:00,CUST1289,Minna,Niger State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Two-Day,5,1295,Cash On Delivery,13/02/2025 00:00,17/02/2025 00:00,No,0
+ORD20282,26/04/2025 00:00,CUST1201,Jos,Plateau State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Standard,15,63.38,Bank Transfer,26/04/2025 00:00,29/04/2025 00:00,No,0
+ORD20283,25/08/2025 00:00,CUST1008,Minna,Niger State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0.1,20,13.5,Two-Day,5,198.5,Cash On Delivery,25/08/2025 00:00,26/08/2025 00:00,No,0
+ORD20284,13/09/2025 00:00,CUST1076,Jos,Plateau State,P1002,Laptop Pro 15,Electronics,1200,2,2400,0.15,360,153,Expedited,5,2198,Bank Transfer,13/09/2025 00:00,17/09/2025 00:00,No,0
+ORD20285,18/08/2025 00:00,CUST1200,Kano,Kano State,P6001,Football,Sports,30,1,30,0,0,2.25,Standard,15,47.25,Credit Card,18/08/2025 00:00,22/08/2025 00:00,No,0
+ORD20286,06/12/2024 00:00,CUST1293,Kano,Kano State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0.15,180,76.5,Expedited,15,1111.5,Cash On Delivery,06/12/2024 00:00,08/12/2024 00:00,No,0
+ORD20287,19/08/2025 00:00,CUST1282,Kano,Kano State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Standard,15,63.38,Bank Transfer,19/08/2025 00:00,24/08/2025 00:00,No,0
+ORD20288,27/05/2025 00:00,CUST1042,Sokoto,Sokoto State,P3001,Men Denim Jeans,Clothing,45,2,90,0,0,6.75,Two-Day,5,101.75,Credit Card,27/05/2025 00:00,30/05/2025 00:00,No,0
+ORD20289,07/08/2024 00:00,CUST1082,Zaria,Kaduna State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Standard,15,63.38,Paypal,07/08/2024 00:00,08/08/2024 00:00,No,0
+ORD20290,04/06/2025 00:00,CUST1055,Minna,Niger State,P3001,Men Denim Jeans,Clothing,45,2,90,0,0,6.75,Expedited,15,111.75,Cash On Delivery,04/06/2025 00:00,06/06/2025 00:00,No,0
+ORD20291,12/01/2025 00:00,CUST1174,Jos,Plateau State,P6001,Football,Sports,30,1,30,0.15,4.5,1.91,Standard,5,32.41,Credit Card,12/01/2025 00:00,13/01/2025 00:00,No,0
+ORD20292,17/07/2025 00:00,CUST1126,Jos,Plateau State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Expedited,5,26.5,Credit Card,17/07/2025 00:00,20/07/2025 00:00,No,0
+ORD20293,27/02/2025 00:00,CUST1038,Lagos,Lagos State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Standard,5,220,Paypal,27/02/2025 00:00,01/03/2025 00:00,No,0
+ORD20294,03/08/2024 00:00,CUST1144,Jos,Plateau State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Standard,10,149.75,Cash On Delivery,03/08/2024 00:00,07/08/2024 00:00,No,0
+ORD20295,04/11/2024 00:00,CUST1245,Kano,Kano State,P5001,Bestseller Novel,Books,12,3,36,0.1,3.6,2.43,Standard,5,39.83,Credit Card,04/11/2024 00:00,05/11/2024 00:00,No,0
+ORD20296,30/10/2024 00:00,CUST1281,Zaria,Kaduna State,P3001,Men Denim Jeans,Clothing,45,3,135,0,0,10.12,Two-Day,15,160.12,Paypal,30/10/2024 00:00,01/11/2024 00:00,No,0
+ORD20297,08/02/2024 00:00,CUST1018,Sokoto,Sokoto State,P3001,Men Denim Jeans,Clothing,45,3,135,0,0,10.12,Standard,5,150.12,Cash On Delivery,08/02/2024 00:00,13/02/2024 00:00,No,0
+ORD20298,11/02/2024 00:00,CUST1213,Lagos,Lagos State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Two-Day,15,27.9,Bank Transfer,11/02/2024 00:00,14/02/2024 00:00,No,0
+ORD20299,27/04/2024 00:00,CUST1094,Abuja,Fct,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Two-Day,15,154.75,Paypal,27/04/2024 00:00,30/04/2024 00:00,Yes,154.75
+ORD20300,14/04/2025 00:00,CUST1259,Kaduna,Kaduna State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Standard,10,225,Credit Card,14/04/2025 00:00,16/04/2025 00:00,No,0
+ORD20301,21/09/2025 00:00,CUST1184,Sokoto,Sokoto State,P3001,Men Denim Jeans,Clothing,45,1,45,0.05,2.25,3.21,Two-Day,10,55.96,Cash On Delivery,21/09/2025 00:00,22/09/2025 00:00,Yes,55.96
+ORD20302,15/05/2025 00:00,CUST1112,Kano,Kano State,P1001,Smartphone X1,Electronics,300,1,300,0.15,45,19.12,Standard,10,284.12,Paypal,15/05/2025 00:00,17/05/2025 00:00,No,0
+ORD20303,23/08/2024 00:00,CUST1129,Kano,Kano State,P1001,Smartphone X1,Electronics,300,1,300,0.05,15,21.38,Standard,5,311.38,Paypal,23/08/2024 00:00,28/08/2024 00:00,No,0
+ORD20304,29/03/2025 00:00,CUST1017,Abuja,Fct,P2001,Cookware Set,Home & Kitchen,130,1,130,0.05,6.5,9.26,Expedited,10,142.76,Paypal,29/03/2025 00:00,03/04/2025 00:00,No,0
+ORD20305,05/02/2025 00:00,CUST1251,Zaria,Kaduna State,P3001,Men Denim Jeans,Clothing,45,1,45,0.05,2.25,3.21,Two-Day,15,60.96,Credit Card,05/02/2025 00:00,06/02/2025 00:00,No,0
+ORD20306,01/12/2025 00:00,CUST1099,Lagos,Lagos State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Two-Day,15,154.75,Cash On Delivery,01/12/2025 00:00,06/12/2025 00:00,No,0
+ORD20307,30/04/2025 00:00,CUST1297,Minna,Niger State,P6001,Football,Sports,30,1,30,0,0,2.25,Expedited,15,47.25,Credit Card,30/04/2025 00:00,01/05/2025 00:00,No,0
+ORD20308,05/11/2025 00:00,CUST1249,Kano,Kano State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Two-Day,5,1295,Bank Transfer,05/11/2025 00:00,08/11/2025 00:00,No,0
+ORD20309,16/03/2024 00:00,CUST1298,Zaria,Kaduna State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Two-Day,5,53.38,Bank Transfer,16/03/2024 00:00,20/03/2024 00:00,No,0
+ORD20310,31/07/2025 00:00,CUST1099,Sokoto,Sokoto State,P6001,Football,Sports,30,2,60,0,0,4.5,Two-Day,15,79.5,Bank Transfer,31/07/2025 00:00,02/08/2025 00:00,No,0
+ORD20311,27/04/2025 00:00,CUST1294,Sokoto,Sokoto State,P6001,Football,Sports,30,1,30,0,0,2.25,Standard,5,37.25,Cash On Delivery,27/04/2025 00:00,02/05/2025 00:00,No,0
+ORD20312,09/02/2025 00:00,CUST1268,Jos,Plateau State,P6001,Football,Sports,30,1,30,0,0,2.25,Two-Day,15,47.25,Cash On Delivery,09/02/2025 00:00,11/02/2025 00:00,No,0
+ORD20313,11/09/2025 00:00,CUST1130,Jos,Plateau State,P1001,Smartphone X1,Electronics,300,2,600,0,0,45,Standard,10,655,Bank Transfer,11/09/2025 00:00,14/09/2025 00:00,No,0
+ORD20314,04/06/2025 00:00,CUST1234,Zaria,Kaduna State,P2001,Cookware Set,Home & Kitchen,130,2,260,0,0,19.5,Expedited,5,284.5,Paypal,04/06/2025 00:00,05/06/2025 00:00,No,0
+ORD20315,28/01/2025 00:00,CUST1243,Zaria,Kaduna State,P1003,Wireless Headphones,Electronics,90,1,90,0.05,4.5,6.41,Expedited,5,96.91,Credit Card,28/01/2025 00:00,01/02/2025 00:00,No,0
+ORD20316,18/09/2024 00:00,CUST1056,Zaria,Kaduna State,P1001,Smartphone X1,Electronics,300,2,600,0.15,90,38.25,Two-Day,15,563.25,Credit Card,18/09/2024 00:00,21/09/2024 00:00,Yes,563.25
+ORD20317,28/11/2024 00:00,CUST1156,Minna,Niger State,P1001,Smartphone X1,Electronics,300,1,300,0,0,22.5,Expedited,15,337.5,Cash On Delivery,28/11/2024 00:00,29/11/2024 00:00,No,0
+ORD20318,02/12/2024 00:00,CUST1025,Abuja,Fct,P1002,Laptop Pro 15,Electronics,1200,1,1200,0.1,120,81,Standard,10,1171,Credit Card,02/12/2024 00:00,07/12/2024 00:00,No,0
+ORD20319,14/09/2025 00:00,CUST1065,Jos,Plateau State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Expedited,15,36.5,Paypal,14/09/2025 00:00,19/09/2025 00:00,No,0
+ORD20320,10/08/2025 00:00,CUST1013,Lagos,Lagos State,P5001,Bestseller Novel,Books,12,2,24,0.05,1.2,1.71,Two-Day,5,29.51,Cash On Delivery,10/08/2025 00:00,11/08/2025 00:00,No,0
+ORD20321,06/03/2025 00:00,CUST1154,Jos,Plateau State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Two-Day,5,26.5,Bank Transfer,06/03/2025 00:00,11/03/2025 00:00,No,0
+ORD20322,25/08/2024 00:00,CUST1037,Abuja,Fct,P3002,Women T‑Shirt,Clothing,20,3,60,0.1,6,4.05,Two-Day,15,73.05,Credit Card,25/08/2024 00:00,30/08/2024 00:00,No,0
+ORD20323,31/12/2025 00:00,CUST1123,Abuja,Fct,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Expedited,15,154.75,Bank Transfer,31/12/2025 00:00,01/01/2026 00:00,No,0
+ORD20324,03/01/2025 00:00,CUST1107,Lagos,Lagos State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0.15,30,12.75,Standard,10,192.75,Cash On Delivery,03/01/2025 00:00,04/01/2025 00:00,No,0
+ORD20325,22/11/2025 00:00,CUST1227,Sokoto,Sokoto State,P1003,Wireless Headphones,Electronics,90,1,90,0.1,9,6.08,Standard,10,97.08,Credit Card,22/11/2025 00:00,25/11/2025 00:00,No,0
+ORD20326,16/12/2024 00:00,CUST1189,Minna,Niger State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Two-Day,15,27.9,Bank Transfer,16/12/2024 00:00,18/12/2024 00:00,No,0
+ORD20327,23/10/2025 00:00,CUST1162,Kaduna,Kaduna State,P6001,Football,Sports,30,1,30,0,0,2.25,Expedited,15,47.25,Cash On Delivery,23/10/2025 00:00,26/10/2025 00:00,No,0
+ORD20328,29/03/2024 00:00,CUST1219,Kano,Kano State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Two-Day,5,220,Bank Transfer,29/03/2024 00:00,03/04/2024 00:00,No,0
+ORD20329,20/10/2025 00:00,CUST1058,Abuja,Fct,P6001,Football,Sports,30,1,30,0,0,2.25,Two-Day,10,42.25,Cash On Delivery,20/10/2025 00:00,22/10/2025 00:00,No,0
+ORD20330,25/02/2024 00:00,CUST1223,Zaria,Kaduna State,P2001,Cookware Set,Home & Kitchen,130,1,130,0.1,13,8.78,Standard,15,140.78,Paypal,25/02/2024 00:00,29/02/2024 00:00,No,0
+ORD20331,10/03/2024 00:00,CUST1066,Jos,Plateau State,P1001,Smartphone X1,Electronics,300,1,300,0.1,30,20.25,Standard,5,295.25,Credit Card,10/03/2024 00:00,13/03/2024 00:00,No,0
+ORD20332,08/03/2024 00:00,CUST1031,Minna,Niger State,P1001,Smartphone X1,Electronics,300,1,300,0,0,22.5,Standard,15,337.5,Credit Card,08/03/2024 00:00,13/03/2024 00:00,No,0
+ORD20333,20/01/2024 00:00,CUST1017,Zaria,Kaduna State,P3001,Men Denim Jeans,Clothing,45,1,45,0.1,4.5,3.04,Two-Day,15,58.54,Credit Card,20/01/2024 00:00,24/01/2024 00:00,No,0
+ORD20334,23/07/2024 00:00,CUST1286,Abuja,Fct,P4001,Body Lotion,Health & Beauty,15,3,45,0,0,3.38,Expedited,5,53.38,Cash On Delivery,23/07/2024 00:00,27/07/2024 00:00,No,0
+ORD20335,06/07/2024 00:00,CUST1297,Jos,Plateau State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Standard,10,149.75,Bank Transfer,06/07/2024 00:00,11/07/2024 00:00,No,0
+ORD20336,18/12/2025 00:00,CUST1030,Abuja,Fct,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Expedited,10,22.9,Credit Card,18/12/2025 00:00,19/12/2025 00:00,No,0
+ORD20337,02/05/2024 00:00,CUST1169,Zaria,Kaduna State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Standard,10,31.5,Paypal,02/05/2024 00:00,05/05/2024 00:00,No,0
+ORD20338,11/08/2024 00:00,CUST1258,Kaduna,Kaduna State,P1003,Wireless Headphones,Electronics,90,1,90,0.1,9,6.08,Standard,10,97.08,Paypal,11/08/2024 00:00,16/08/2024 00:00,No,0
+ORD20339,17/11/2024 00:00,CUST1155,Kaduna,Kaduna State,P1001,Smartphone X1,Electronics,300,1,300,0.1,30,20.25,Two-Day,5,295.25,Paypal,17/11/2024 00:00,22/11/2024 00:00,No,0
+ORD20340,24/08/2024 00:00,CUST1032,Sokoto,Sokoto State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Standard,15,111.75,Cash On Delivery,24/08/2024 00:00,27/08/2024 00:00,No,0
+ORD20341,01/04/2024 00:00,CUST1176,Kano,Kano State,P6001,Football,Sports,30,1,30,0,0,2.25,Expedited,15,47.25,Paypal,01/04/2024 00:00,06/04/2024 00:00,No,0
+ORD20342,28/02/2024 00:00,CUST1116,Lagos,Lagos State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Standard,15,1305,Credit Card,28/02/2024 00:00,03/03/2024 00:00,No,0
+ORD20343,19/10/2024 00:00,CUST1059,Kaduna,Kaduna State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Two-Day,10,149.75,Cash On Delivery,19/10/2024 00:00,23/10/2024 00:00,No,0
+ORD20344,03/02/2024 00:00,CUST1269,Minna,Niger State,P2001,Cookware Set,Home & Kitchen,130,2,260,0.05,13,18.52,Two-Day,5,270.52,Cash On Delivery,03/02/2024 00:00,05/02/2024 00:00,No,0
+ORD20345,31/12/2024 00:00,CUST1099,Zaria,Kaduna State,P3001,Men Denim Jeans,Clothing,45,2,90,0,0,6.75,Expedited,15,111.75,Bank Transfer,31/12/2024 00:00,05/01/2025 00:00,No,0
+ORD20346,07/09/2024 00:00,CUST1197,Kaduna,Kaduna State,P3002,Women T‑Shirt,Clothing,20,1,20,0.05,1,1.42,Expedited,10,30.42,Cash On Delivery,07/09/2024 00:00,08/09/2024 00:00,No,0
+ORD20347,15/03/2024 00:00,CUST1091,Kaduna,Kaduna State,P2001,Cookware Set,Home & Kitchen,130,2,260,0,0,19.5,Expedited,15,294.5,Cash On Delivery,15/03/2024 00:00,17/03/2024 00:00,No,0
+ORD20348,14/01/2025 00:00,CUST1272,Jos,Plateau State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Expedited,5,53.38,Bank Transfer,14/01/2025 00:00,15/01/2025 00:00,No,0
+ORD20349,09/02/2025 00:00,CUST1186,Zaria,Kaduna State,P3001,Men Denim Jeans,Clothing,45,1,45,0.15,6.75,2.87,Expedited,10,51.12,Credit Card,09/02/2025 00:00,10/02/2025 00:00,No,0
+ORD20350,21/06/2024 00:00,CUST1189,Lagos,Lagos State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Expedited,15,230,Paypal,21/06/2024 00:00,25/06/2024 00:00,No,0
+ORD20351,13/04/2025 00:00,CUST1280,Lagos,Lagos State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Two-Day,10,106.75,Paypal,13/04/2025 00:00,16/04/2025 00:00,No,0
+ORD20352,18/09/2025 00:00,CUST1069,Lagos,Lagos State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Expedited,10,1300,Paypal,18/09/2025 00:00,21/09/2025 00:00,No,0
+ORD20353,10/10/2024 00:00,CUST1182,Zaria,Kaduna State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Expedited,15,111.75,Cash On Delivery,10/10/2024 00:00,11/10/2024 00:00,No,0
+ORD20354,17/07/2025 00:00,CUST1039,Minna,Niger State,P1003,Wireless Headphones,Electronics,90,3,270,0.05,13.5,19.24,Expedited,5,280.74,Bank Transfer,17/07/2025 00:00,20/07/2025 00:00,No,0
+ORD20355,11/03/2024 00:00,CUST1055,Lagos,Lagos State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Two-Day,5,53.38,Paypal,11/03/2024 00:00,15/03/2024 00:00,No,0
+ORD20356,15/07/2024 00:00,CUST1245,Kano,Kano State,P1001,Smartphone X1,Electronics,300,2,600,0,0,45,Two-Day,5,650,Cash On Delivery,15/07/2024 00:00,17/07/2024 00:00,Yes,650
+ORD20357,04/10/2025 00:00,CUST1187,Zaria,Kaduna State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Two-Day,10,22.9,Cash On Delivery,04/10/2025 00:00,07/10/2025 00:00,No,0
+ORD20358,19/01/2025 00:00,CUST1175,Kaduna,Kaduna State,P1003,Wireless Headphones,Electronics,90,2,180,0,0,13.5,Standard,10,203.5,Cash On Delivery,19/01/2025 00:00,23/01/2025 00:00,Yes,203.5
+ORD20359,07/11/2024 00:00,CUST1107,Kano,Kano State,P2001,Cookware Set,Home & Kitchen,130,1,130,0.15,19.5,8.29,Expedited,10,128.79,Bank Transfer,07/11/2024 00:00,10/11/2024 00:00,No,0
+ORD20360,25/08/2024 00:00,CUST1125,Zaria,Kaduna State,P1001,Smartphone X1,Electronics,300,1,300,0,0,22.5,Expedited,5,327.5,Credit Card,25/08/2024 00:00,29/08/2024 00:00,No,0
+ORD20361,16/08/2024 00:00,CUST1100,Kaduna,Kaduna State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Expedited,5,101.75,Cash On Delivery,16/08/2024 00:00,19/08/2024 00:00,No,0
+ORD20362,18/03/2024 00:00,CUST1072,Lagos,Lagos State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Expedited,10,149.75,Bank Transfer,18/03/2024 00:00,23/03/2024 00:00,No,0
+ORD20363,08/06/2025 00:00,CUST1224,Sokoto,Sokoto State,P1003,Wireless Headphones,Electronics,90,1,90,0.05,4.5,6.41,Expedited,10,101.91,Paypal,08/06/2025 00:00,09/06/2025 00:00,No,0
+ORD20364,29/07/2024 00:00,CUST1221,Kaduna,Kaduna State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Standard,5,220,Paypal,29/07/2024 00:00,31/07/2024 00:00,Yes,220
+ORD20365,16/06/2024 00:00,CUST1068,Abuja,Fct,P1001,Smartphone X1,Electronics,300,1,300,0,0,22.5,Expedited,15,337.5,Cash On Delivery,16/06/2024 00:00,17/06/2024 00:00,No,0
+ORD20366,25/03/2024 00:00,CUST1094,Kano,Kano State,P3001,Men Denim Jeans,Clothing,45,2,90,0,0,6.75,Two-Day,5,101.75,Paypal,25/03/2024 00:00,26/03/2024 00:00,No,0
+ORD20367,21/10/2025 00:00,CUST1108,Kaduna,Kaduna State,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Two-Day,5,21.12,Paypal,21/10/2025 00:00,22/10/2025 00:00,No,0
+ORD20368,08/12/2025 00:00,CUST1175,Lagos,Lagos State,P6001,Football,Sports,30,1,30,0,0,2.25,Two-Day,5,37.25,Credit Card,08/12/2025 00:00,09/12/2025 00:00,No,0
+ORD20369,19/07/2025 00:00,CUST1111,Zaria,Kaduna State,P4001,Body Lotion,Health & Beauty,15,3,45,0.1,4.5,3.04,Standard,5,48.54,Credit Card,19/07/2025 00:00,21/07/2025 00:00,No,0
+ORD20370,23/12/2024 00:00,CUST1187,Sokoto,Sokoto State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Standard,15,27.9,Bank Transfer,23/12/2024 00:00,24/12/2024 00:00,No,0
+ORD20371,16/11/2025 00:00,CUST1034,Zaria,Kaduna State,P6001,Football,Sports,30,1,30,0,0,2.25,Expedited,15,47.25,Cash On Delivery,16/11/2025 00:00,17/11/2025 00:00,No,0
+ORD20372,12/12/2024 00:00,CUST1293,Kaduna,Kaduna State,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Expedited,10,26.12,Credit Card,12/12/2024 00:00,13/12/2024 00:00,No,0
+ORD20373,20/01/2024 00:00,CUST1134,Kaduna,Kaduna State,P3001,Men Denim Jeans,Clothing,45,2,90,0.05,4.5,6.41,Standard,10,101.91,Cash On Delivery,20/01/2024 00:00,23/01/2024 00:00,No,0
+ORD20374,15/09/2024 00:00,CUST1115,Zaria,Kaduna State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Expedited,10,225,Bank Transfer,15/09/2024 00:00,20/09/2024 00:00,No,0
+ORD20375,15/06/2024 00:00,CUST1212,Kano,Kano State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Two-Day,10,225,Cash On Delivery,15/06/2024 00:00,20/06/2024 00:00,No,0
+ORD20376,16/03/2025 00:00,CUST1024,Kaduna,Kaduna State,P3002,Women T‑Shirt,Clothing,20,1,20,0.15,3,1.27,Two-Day,5,23.27,Paypal,16/03/2025 00:00,20/03/2025 00:00,No,0
+ORD20377,21/05/2025 00:00,CUST1142,Zaria,Kaduna State,P6001,Football,Sports,30,2,60,0,0,4.5,Two-Day,5,69.5,Cash On Delivery,21/05/2025 00:00,22/05/2025 00:00,No,0
+ORD20378,26/05/2024 00:00,CUST1131,Lagos,Lagos State,P3001,Men Denim Jeans,Clothing,45,2,90,0.1,9,6.08,Expedited,15,102.08,Credit Card,26/05/2024 00:00,30/05/2024 00:00,No,0
+ORD20379,03/08/2025 00:00,CUST1203,Zaria,Kaduna State,P5001,Bestseller Novel,Books,12,3,36,0,0,2.7,Two-Day,10,48.7,Paypal,03/08/2025 00:00,04/08/2025 00:00,No,0
+ORD20380,07/05/2025 00:00,CUST1202,Sokoto,Sokoto State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Two-Day,15,111.75,Paypal,07/05/2025 00:00,11/05/2025 00:00,No,0
+ORD20381,13/03/2024 00:00,CUST1019,Abuja,Fct,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Standard,15,1305,Bank Transfer,13/03/2024 00:00,15/03/2024 00:00,No,0
+ORD20382,16/06/2025 00:00,CUST1291,Sokoto,Sokoto State,P3001,Men Denim Jeans,Clothing,45,1,45,0.05,2.25,3.21,Standard,10,55.96,Bank Transfer,16/06/2025 00:00,21/06/2025 00:00,No,0
+ORD20383,19/07/2025 00:00,CUST1203,Kano,Kano State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Two-Day,5,26.5,Bank Transfer,19/07/2025 00:00,21/07/2025 00:00,No,0
+ORD20384,12/01/2025 00:00,CUST1084,Zaria,Kaduna State,P1001,Smartphone X1,Electronics,300,1,300,0,0,22.5,Expedited,5,327.5,Bank Transfer,12/01/2025 00:00,13/01/2025 00:00,No,0
+ORD20385,28/03/2025 00:00,CUST1121,Jos,Plateau State,P1002,Laptop Pro 15,Electronics,1200,2,2400,0,0,180,Expedited,15,2595,Paypal,28/03/2025 00:00,29/03/2025 00:00,No,0
+ORD20386,16/02/2024 00:00,CUST1082,Lagos,Lagos State,P4001,Body Lotion,Health & Beauty,15,3,45,0,0,3.38,Expedited,10,58.38,Cash On Delivery,16/02/2024 00:00,19/02/2024 00:00,No,0
+ORD20387,09/01/2024 00:00,CUST1088,Sokoto,Sokoto State,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Two-Day,5,21.12,Paypal,09/01/2024 00:00,10/01/2024 00:00,No,0
+ORD20388,05/06/2025 00:00,CUST1030,Sokoto,Sokoto State,P1003,Wireless Headphones,Electronics,90,2,180,0,0,13.5,Standard,10,203.5,Bank Transfer,05/06/2025 00:00,07/06/2025 00:00,No,0
+ORD20389,25/09/2024 00:00,CUST1238,Kaduna,Kaduna State,P3001,Men Denim Jeans,Clothing,45,3,135,0.1,13.5,9.11,Standard,15,145.61,Paypal,25/09/2024 00:00,27/09/2024 00:00,No,0
+ORD20390,24/09/2025 00:00,CUST1168,Lagos,Lagos State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Two-Day,10,106.75,Cash On Delivery,24/09/2025 00:00,26/09/2025 00:00,No,0
+ORD20391,13/04/2025 00:00,CUST1119,Minna,Niger State,P4001,Body Lotion,Health & Beauty,15,2,30,0,0,2.25,Two-Day,5,37.25,Cash On Delivery,13/04/2025 00:00,17/04/2025 00:00,No,0
+ORD20392,30/07/2024 00:00,CUST1086,Jos,Plateau State,P6001,Football,Sports,30,1,30,0,0,2.25,Expedited,15,47.25,Paypal,30/07/2024 00:00,03/08/2024 00:00,No,0
+ORD20393,11/03/2025 00:00,CUST1003,Zaria,Kaduna State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Expedited,15,1305,Paypal,11/03/2025 00:00,13/03/2025 00:00,No,0
+ORD20394,28/03/2025 00:00,CUST1225,Sokoto,Sokoto State,P5001,Bestseller Novel,Books,12,1,12,0.05,0.6,0.86,Expedited,10,22.26,Paypal,28/03/2025 00:00,01/04/2025 00:00,No,0
+ORD20395,09/04/2024 00:00,CUST1027,Kaduna,Kaduna State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Two-Day,10,1300,Bank Transfer,09/04/2024 00:00,11/04/2024 00:00,No,0
+ORD20396,05/07/2024 00:00,CUST1070,Sokoto,Sokoto State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Expedited,5,26.5,Bank Transfer,05/07/2024 00:00,08/07/2024 00:00,No,0
+ORD20397,17/07/2024 00:00,CUST1267,Kano,Kano State,P6001,Football,Sports,30,1,30,0.1,3,2.02,Two-Day,5,34.02,Bank Transfer,17/07/2024 00:00,21/07/2024 00:00,Yes,34.02
+ORD20398,23/12/2024 00:00,CUST1250,Minna,Niger State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Standard,5,220,Cash On Delivery,23/12/2024 00:00,28/12/2024 00:00,Yes,220
+ORD20399,03/03/2024 00:00,CUST1092,Kano,Kano State,P5001,Bestseller Novel,Books,12,1,12,0.15,1.8,0.76,Two-Day,5,15.96,Credit Card,03/03/2024 00:00,08/03/2024 00:00,No,0
+ORD20400,22/11/2024 00:00,CUST1281,Abuja,Fct,P4001,Body Lotion,Health & Beauty,15,3,45,0.05,2.25,3.21,Expedited,15,60.96,Cash On Delivery,22/11/2024 00:00,26/11/2024 00:00,No,0
+ORD20401,24/04/2025 00:00,CUST1052,Minna,Niger State,P1001,Smartphone X1,Electronics,300,3,900,0,0,67.5,Expedited,15,982.5,Bank Transfer,24/04/2025 00:00,28/04/2025 00:00,Yes,982.5
+ORD20402,08/04/2024 00:00,CUST1238,Zaria,Kaduna State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Standard,15,27.9,Bank Transfer,08/04/2024 00:00,12/04/2024 00:00,No,0
+ORD20403,04/05/2025 00:00,CUST1277,Minna,Niger State,P6001,Football,Sports,30,2,60,0,0,4.5,Two-Day,15,79.5,Paypal,04/05/2025 00:00,06/05/2025 00:00,No,0
+ORD20404,20/05/2024 00:00,CUST1163,Lagos,Lagos State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Two-Day,5,53.38,Paypal,20/05/2024 00:00,25/05/2024 00:00,No,0
+ORD20405,27/10/2025 00:00,CUST1115,Abuja,Fct,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Standard,5,21.12,Credit Card,27/10/2025 00:00,31/10/2025 00:00,Yes,21.12
+ORD20406,09/04/2025 00:00,CUST1052,Minna,Niger State,P1001,Smartphone X1,Electronics,300,2,600,0,0,45,Standard,10,655,Cash On Delivery,09/04/2025 00:00,11/04/2025 00:00,No,0
+ORD20407,11/02/2025 00:00,CUST1286,Zaria,Kaduna State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0.1,20,13.5,Standard,5,198.5,Bank Transfer,11/02/2025 00:00,12/02/2025 00:00,No,0
+ORD20408,30/12/2025 00:00,CUST1249,Sokoto,Sokoto State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Expedited,10,225,Bank Transfer,30/12/2025 00:00,31/12/2025 00:00,No,0
+ORD20409,12/04/2024 00:00,CUST1160,Jos,Plateau State,P1003,Wireless Headphones,Electronics,90,3,270,0,0,20.25,Expedited,5,295.25,Paypal,12/04/2024 00:00,13/04/2024 00:00,No,0
+ORD20410,18/04/2024 00:00,CUST1228,Lagos,Lagos State,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Two-Day,15,31.12,Credit Card,18/04/2024 00:00,19/04/2024 00:00,No,0
+ORD20411,21/05/2025 00:00,CUST1274,Zaria,Kaduna State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Two-Day,15,63.38,Cash On Delivery,21/05/2025 00:00,24/05/2025 00:00,No,0
+ORD20412,29/08/2025 00:00,CUST1297,Zaria,Kaduna State,P5001,Bestseller Novel,Books,12,1,12,0.1,1.2,0.81,Expedited,10,21.61,Cash On Delivery,29/08/2025 00:00,30/08/2025 00:00,No,0
+ORD20413,11/08/2024 00:00,CUST1248,Minna,Niger State,P5001,Bestseller Novel,Books,12,2,24,0,0,1.8,Standard,5,30.8,Paypal,11/08/2024 00:00,14/08/2024 00:00,No,0
+ORD20414,08/09/2024 00:00,CUST1274,Abuja,Fct,P6001,Football,Sports,30,3,90,0,0,6.75,Standard,15,111.75,Cash On Delivery,08/09/2024 00:00,12/09/2024 00:00,No,0
+ORD20415,31/01/2024 00:00,CUST1031,Zaria,Kaduna State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Expedited,10,31.5,Cash On Delivery,31/01/2024 00:00,02/02/2024 00:00,No,0
+ORD20416,22/10/2024 00:00,CUST1185,Minna,Niger State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Standard,5,144.75,Cash On Delivery,22/10/2024 00:00,27/10/2024 00:00,No,0
+ORD20417,09/01/2024 00:00,CUST1203,Minna,Niger State,P1003,Wireless Headphones,Electronics,90,2,180,0.1,18,12.15,Expedited,10,184.15,Cash On Delivery,09/01/2024 00:00,13/01/2024 00:00,No,0
+ORD20418,18/09/2025 00:00,CUST1113,Abuja,Fct,P1002,Laptop Pro 15,Electronics,1200,2,2400,0,0,180,Expedited,15,2595,Bank Transfer,18/09/2025 00:00,22/09/2025 00:00,No,0
+ORD20419,20/03/2025 00:00,CUST1104,Jos,Plateau State,P1002,Laptop Pro 15,Electronics,1200,2,2400,0.05,120,171,Standard,15,2466,Cash On Delivery,20/03/2025 00:00,24/03/2025 00:00,No,0
+ORD20420,24/04/2024 00:00,CUST1047,Minna,Niger State,P1003,Wireless Headphones,Electronics,90,1,90,0.1,9,6.08,Two-Day,5,92.08,Paypal,24/04/2024 00:00,29/04/2024 00:00,No,0
+ORD20421,23/03/2025 00:00,CUST1174,Lagos,Lagos State,P3002,Women T‑Shirt,Clothing,20,3,60,0,0,4.5,Expedited,15,79.5,Cash On Delivery,23/03/2025 00:00,27/03/2025 00:00,No,0
+ORD20422,17/06/2024 00:00,CUST1106,Abuja,Fct,P1003,Wireless Headphones,Electronics,90,2,180,0,0,13.5,Two-Day,10,203.5,Paypal,17/06/2024 00:00,20/06/2024 00:00,No,0
+ORD20423,21/08/2025 00:00,CUST1075,Kaduna,Kaduna State,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Two-Day,10,26.12,Paypal,21/08/2025 00:00,23/08/2025 00:00,No,0
+ORD20424,13/09/2025 00:00,CUST1220,Lagos,Lagos State,P3001,Men Denim Jeans,Clothing,45,2,90,0,0,6.75,Two-Day,15,111.75,Cash On Delivery,13/09/2025 00:00,15/09/2025 00:00,No,0
+ORD20425,27/06/2024 00:00,CUST1070,Kano,Kano State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Standard,15,63.38,Paypal,27/06/2024 00:00,29/06/2024 00:00,No,0
+ORD20426,29/10/2025 00:00,CUST1254,Sokoto,Sokoto State,P1001,Smartphone X1,Electronics,300,2,600,0,0,45,Standard,15,660,Paypal,29/10/2025 00:00,31/10/2025 00:00,No,0
+ORD20427,26/05/2024 00:00,CUST1272,Sokoto,Sokoto State,P6001,Football,Sports,30,1,30,0.05,1.5,2.14,Standard,10,40.64,Cash On Delivery,26/05/2024 00:00,30/05/2024 00:00,No,0
+ORD20428,07/03/2024 00:00,CUST1070,Jos,Plateau State,P3001,Men Denim Jeans,Clothing,45,2,90,0,0,6.75,Expedited,15,111.75,Bank Transfer,07/03/2024 00:00,11/03/2024 00:00,Yes,111.75
+ORD20429,03/09/2024 00:00,CUST1015,Sokoto,Sokoto State,P2001,Cookware Set,Home & Kitchen,130,4,520,0,0,39,Standard,10,569,Credit Card,03/09/2024 00:00,06/09/2024 00:00,No,0
+ORD20430,15/06/2025 00:00,CUST1155,Kano,Kano State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Standard,5,220,Credit Card,15/06/2025 00:00,20/06/2025 00:00,No,0
+ORD20431,05/12/2024 00:00,CUST1054,Kaduna,Kaduna State,P3002,Women T‑Shirt,Clothing,20,1,20,0.1,2,1.35,Standard,10,29.35,Bank Transfer,05/12/2024 00:00,07/12/2024 00:00,No,0
+ORD20432,26/05/2024 00:00,CUST1295,Sokoto,Sokoto State,P2002,Vacuum Cleaner,Home & Kitchen,200,4,800,0,0,60,Expedited,5,865,Cash On Delivery,26/05/2024 00:00,28/05/2024 00:00,No,0
+ORD20433,22/03/2025 00:00,CUST1178,Minna,Niger State,P3002,Women T‑Shirt,Clothing,20,2,40,0,0,3,Expedited,10,53,Paypal,22/03/2025 00:00,25/03/2025 00:00,No,0
+ORD20434,31/08/2024 00:00,CUST1100,Kaduna,Kaduna State,P1003,Wireless Headphones,Electronics,90,2,180,0,0,13.5,Standard,5,198.5,Credit Card,31/08/2024 00:00,02/09/2024 00:00,No,0
+ORD20435,23/09/2025 00:00,CUST1123,Minna,Niger State,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Expedited,5,21.12,Credit Card,23/09/2025 00:00,24/09/2025 00:00,No,0
+ORD20436,08/01/2024 00:00,CUST1027,Lagos,Lagos State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Standard,5,17.9,Bank Transfer,08/01/2024 00:00,09/01/2024 00:00,Yes,17.9
+ORD20437,29/08/2024 00:00,CUST1142,Minna,Niger State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Two-Day,10,106.75,Cash On Delivery,29/08/2024 00:00,02/09/2024 00:00,No,0
+ORD20438,18/02/2024 00:00,CUST1212,Zaria,Kaduna State,P6001,Football,Sports,30,1,30,0,0,2.25,Two-Day,5,37.25,Bank Transfer,18/02/2024 00:00,22/02/2024 00:00,No,0
+ORD20439,02/03/2024 00:00,CUST1066,Zaria,Kaduna State,P6001,Football,Sports,30,1,30,0,0,2.25,Expedited,15,47.25,Credit Card,02/03/2024 00:00,04/03/2024 00:00,No,0
+ORD20440,01/06/2024 00:00,CUST1125,Kaduna,Kaduna State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Standard,5,26.5,Cash On Delivery,01/06/2024 00:00,05/06/2024 00:00,No,0
+ORD20441,26/01/2024 00:00,CUST1066,Lagos,Lagos State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0.05,10,14.25,Expedited,15,219.25,Credit Card,26/01/2024 00:00,28/01/2024 00:00,No,0
+ORD20442,17/03/2025 00:00,CUST1247,Kaduna,Kaduna State,P6001,Football,Sports,30,2,60,0,0,4.5,Standard,15,79.5,Bank Transfer,17/03/2025 00:00,22/03/2025 00:00,No,0
+ORD20443,05/07/2025 00:00,CUST1278,Kaduna,Kaduna State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Two-Day,5,101.75,Bank Transfer,05/07/2025 00:00,10/07/2025 00:00,No,0
+ORD20444,19/06/2025 00:00,CUST1278,Minna,Niger State,P2001,Cookware Set,Home & Kitchen,130,1,130,0.1,13,8.78,Expedited,5,130.78,Bank Transfer,19/06/2025 00:00,22/06/2025 00:00,No,0
+ORD20445,09/03/2024 00:00,CUST1162,Sokoto,Sokoto State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0.1,120,81,Standard,10,1171,Cash On Delivery,09/03/2024 00:00,11/03/2024 00:00,No,0
+ORD20446,18/04/2024 00:00,CUST1053,Kaduna,Kaduna State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Standard,5,53.38,Credit Card,18/04/2024 00:00,22/04/2024 00:00,No,0
+ORD20447,18/03/2025 00:00,CUST1044,Kano,Kano State,P5001,Bestseller Novel,Books,12,2,24,0.05,1.2,1.71,Standard,15,39.51,Credit Card,18/03/2025 00:00,19/03/2025 00:00,No,0
+ORD20448,04/03/2024 00:00,CUST1157,Sokoto,Sokoto State,P6001,Football,Sports,30,1,30,0,0,2.25,Two-Day,10,42.25,Bank Transfer,04/03/2024 00:00,08/03/2024 00:00,No,0
+ORD20449,05/10/2025 00:00,CUST1286,Jos,Plateau State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Standard,5,26.5,Credit Card,05/10/2025 00:00,07/10/2025 00:00,No,0
+ORD20450,12/08/2024 00:00,CUST1141,Sokoto,Sokoto State,P4001,Body Lotion,Health & Beauty,15,2,30,0.15,4.5,1.91,Expedited,15,42.41,Cash On Delivery,12/08/2024 00:00,13/08/2024 00:00,Yes,42.41
+ORD20451,26/02/2024 00:00,CUST1244,Sokoto,Sokoto State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Expedited,15,27.9,Paypal,26/02/2024 00:00,01/03/2024 00:00,No,0
+ORD20452,22/08/2025 00:00,CUST1224,Sokoto,Sokoto State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0.05,10,14.25,Two-Day,10,214.25,Paypal,22/08/2025 00:00,25/08/2025 00:00,No,0
+ORD20453,02/12/2025 00:00,CUST1164,Minna,Niger State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Two-Day,10,31.5,Bank Transfer,02/12/2025 00:00,07/12/2025 00:00,No,0
+ORD20454,18/01/2024 00:00,CUST1244,Abuja,Fct,P2002,Vacuum Cleaner,Home & Kitchen,200,3,600,0,0,45,Standard,15,660,Paypal,18/01/2024 00:00,22/01/2024 00:00,No,0
+ORD20455,22/09/2024 00:00,CUST1252,Kaduna,Kaduna State,P3001,Men Denim Jeans,Clothing,45,3,135,0,0,10.12,Expedited,15,160.12,Cash On Delivery,22/09/2024 00:00,25/09/2024 00:00,No,0
+ORD20456,21/05/2024 00:00,CUST1070,Kaduna,Kaduna State,P5001,Bestseller Novel,Books,12,1,12,0.1,1.2,0.81,Expedited,5,16.61,Credit Card,21/05/2024 00:00,25/05/2024 00:00,No,0
+ORD20457,29/11/2024 00:00,CUST1228,Sokoto,Sokoto State,P6001,Football,Sports,30,1,30,0.1,3,2.02,Two-Day,10,39.02,Cash On Delivery,29/11/2024 00:00,03/12/2024 00:00,Yes,39.02
+ORD20458,25/07/2024 00:00,CUST1064,Kano,Kano State,P5001,Bestseller Novel,Books,12,1,12,0.1,1.2,0.81,Expedited,15,26.61,Credit Card,25/07/2024 00:00,29/07/2024 00:00,No,0
+ORD20459,24/10/2025 00:00,CUST1236,Jos,Plateau State,P1001,Smartphone X1,Electronics,300,3,900,0.1,90,60.75,Expedited,10,880.75,Credit Card,24/10/2025 00:00,25/10/2025 00:00,No,0
+ORD20460,10/04/2024 00:00,CUST1289,Minna,Niger State,P1002,Laptop Pro 15,Electronics,1200,2,2400,0,0,180,Two-Day,10,2590,Cash On Delivery,10/04/2024 00:00,13/04/2024 00:00,No,0
+ORD20461,17/09/2025 00:00,CUST1293,Sokoto,Sokoto State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Expedited,10,1300,Cash On Delivery,17/09/2025 00:00,19/09/2025 00:00,No,0
+ORD20462,26/02/2024 00:00,CUST1022,Abuja,Fct,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Two-Day,5,101.75,Credit Card,26/02/2024 00:00,29/02/2024 00:00,No,0
+ORD20463,26/06/2025 00:00,CUST1021,Kaduna,Kaduna State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Expedited,15,27.9,Paypal,26/06/2025 00:00,28/06/2025 00:00,No,0
+ORD20464,10/08/2024 00:00,CUST1082,Lagos,Lagos State,P2001,Cookware Set,Home & Kitchen,130,1,130,0.05,6.5,9.26,Standard,10,142.76,Cash On Delivery,10/08/2024 00:00,11/08/2024 00:00,No,0
+ORD20465,21/09/2025 00:00,CUST1288,Minna,Niger State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Standard,15,230,Cash On Delivery,21/09/2025 00:00,23/09/2025 00:00,No,0
+ORD20466,02/09/2025 00:00,CUST1295,Abuja,Fct,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Expedited,5,1295,Credit Card,02/09/2025 00:00,07/09/2025 00:00,No,0
+ORD20467,16/10/2024 00:00,CUST1011,Minna,Niger State,P6001,Football,Sports,30,3,90,0,0,6.75,Expedited,15,111.75,Bank Transfer,16/10/2024 00:00,17/10/2024 00:00,No,0
+ORD20468,07/08/2024 00:00,CUST1223,Kaduna,Kaduna State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Two-Day,5,101.75,Credit Card,07/08/2024 00:00,10/08/2024 00:00,No,0
+ORD20469,29/12/2024 00:00,CUST1219,Minna,Niger State,P3001,Men Denim Jeans,Clothing,45,3,135,0,0,10.12,Two-Day,15,160.12,Paypal,29/12/2024 00:00,01/01/2025 00:00,No,0
+ORD20470,01/03/2024 00:00,CUST1091,Abuja,Fct,P2001,Cookware Set,Home & Kitchen,130,1,130,0.05,6.5,9.26,Expedited,15,147.76,Credit Card,01/03/2024 00:00,06/03/2024 00:00,No,0
+ORD20471,12/08/2024 00:00,CUST1228,Zaria,Kaduna State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Expedited,10,149.75,Paypal,12/08/2024 00:00,15/08/2024 00:00,No,0
+ORD20472,04/05/2025 00:00,CUST1266,Minna,Niger State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Two-Day,10,1300,Credit Card,04/05/2025 00:00,07/05/2025 00:00,No,0
+ORD20473,19/12/2025 00:00,CUST1241,Jos,Plateau State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Expedited,10,225,Paypal,19/12/2025 00:00,23/12/2025 00:00,No,0
+ORD20474,26/01/2025 00:00,CUST1067,Minna,Niger State,P1001,Smartphone X1,Electronics,300,3,900,0,0,67.5,Expedited,15,982.5,Credit Card,26/01/2025 00:00,30/01/2025 00:00,No,0
+ORD20475,22/10/2025 00:00,CUST1067,Abuja,Fct,P4001,Body Lotion,Health & Beauty,15,2,30,0,0,2.25,Standard,5,37.25,Cash On Delivery,22/10/2025 00:00,24/10/2025 00:00,No,0
+ORD20476,07/12/2024 00:00,CUST1223,Abuja,Fct,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Standard,10,22.9,Paypal,07/12/2024 00:00,10/12/2024 00:00,No,0
+ORD20477,28/04/2024 00:00,CUST1124,Sokoto,Sokoto State,P6001,Football,Sports,30,1,30,0,0,2.25,Standard,5,37.25,Bank Transfer,28/04/2024 00:00,01/05/2024 00:00,No,0
+ORD20478,20/07/2025 00:00,CUST1183,Minna,Niger State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Expedited,5,26.5,Credit Card,20/07/2025 00:00,24/07/2025 00:00,No,0
+ORD20479,10/05/2024 00:00,CUST1204,Lagos,Lagos State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Standard,15,36.5,Cash On Delivery,10/05/2024 00:00,13/05/2024 00:00,Yes,36.5
+ORD20480,25/07/2024 00:00,CUST1198,Minna,Niger State,P1002,Laptop Pro 15,Electronics,1200,2,2400,0,0,180,Two-Day,10,2590,Cash On Delivery,25/07/2024 00:00,26/07/2024 00:00,No,0
+ORD20481,04/06/2025 00:00,CUST1245,Minna,Niger State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Standard,15,230,Cash On Delivery,04/06/2025 00:00,06/06/2025 00:00,No,0
+ORD20482,29/07/2025 00:00,CUST1078,Jos,Plateau State,P1001,Smartphone X1,Electronics,300,3,900,0,0,67.5,Two-Day,10,977.5,Credit Card,29/07/2025 00:00,30/07/2025 00:00,No,0
+ORD20483,06/04/2024 00:00,CUST1189,Sokoto,Sokoto State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Expedited,15,230,Paypal,06/04/2024 00:00,09/04/2024 00:00,No,0
+ORD20484,29/01/2024 00:00,CUST1043,Minna,Niger State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Expedited,5,26.5,Paypal,29/01/2024 00:00,01/02/2024 00:00,No,0
+ORD20485,26/08/2024 00:00,CUST1286,Minna,Niger State,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Two-Day,10,26.12,Credit Card,26/08/2024 00:00,28/08/2024 00:00,No,0
+ORD20486,07/09/2025 00:00,CUST1192,Kano,Kano State,P3002,Women T‑Shirt,Clothing,20,4,80,0,0,6,Standard,15,101,Paypal,07/09/2025 00:00,08/09/2025 00:00,No,0
+ORD20487,27/10/2024 00:00,CUST1020,Sokoto,Sokoto State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Two-Day,10,1300,Credit Card,27/10/2024 00:00,31/10/2024 00:00,No,0
+ORD20488,15/03/2024 00:00,CUST1177,Kano,Kano State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Standard,15,1305,Cash On Delivery,15/03/2024 00:00,16/03/2024 00:00,Yes,1305
+ORD20489,04/07/2025 00:00,CUST1181,Jos,Plateau State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Expedited,15,1305,Cash On Delivery,04/07/2025 00:00,07/07/2025 00:00,No,0
+ORD20490,22/06/2025 00:00,CUST1167,Lagos,Lagos State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Standard,10,58.38,Cash On Delivery,22/06/2025 00:00,27/06/2025 00:00,No,0
+ORD20491,14/11/2024 00:00,CUST1119,Abuja,Fct,P2001,Cookware Set,Home & Kitchen,130,3,390,0,0,29.25,Expedited,5,424.25,Cash On Delivery,14/11/2024 00:00,19/11/2024 00:00,No,0
+ORD20492,15/09/2024 00:00,CUST1154,Kano,Kano State,P4001,Body Lotion,Health & Beauty,15,2,30,0.05,1.5,2.14,Two-Day,5,35.64,Paypal,15/09/2024 00:00,19/09/2024 00:00,No,0
+ORD20493,27/03/2024 00:00,CUST1075,Abuja,Fct,P1003,Wireless Headphones,Electronics,90,3,270,0,0,20.25,Expedited,5,295.25,Bank Transfer,27/03/2024 00:00,28/03/2024 00:00,No,0
+ORD20494,20/07/2025 00:00,CUST1103,Lagos,Lagos State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Two-Day,10,106.75,Credit Card,20/07/2025 00:00,22/07/2025 00:00,No,0
+ORD20495,11/06/2024 00:00,CUST1161,Minna,Niger State,P2001,Cookware Set,Home & Kitchen,130,2,260,0,0,19.5,Standard,15,294.5,Bank Transfer,11/06/2024 00:00,12/06/2024 00:00,No,0
+ORD20496,18/12/2025 00:00,CUST1110,Minna,Niger State,P1002,Laptop Pro 15,Electronics,1200,3,3600,0,0,270,Expedited,10,3880,Paypal,18/12/2025 00:00,23/12/2025 00:00,No,0
+ORD20497,26/03/2024 00:00,CUST1148,Sokoto,Sokoto State,P3001,Men Denim Jeans,Clothing,45,2,90,0,0,6.75,Standard,5,101.75,Credit Card,26/03/2024 00:00,29/03/2024 00:00,No,0
+ORD20498,19/04/2025 00:00,CUST1118,Kaduna,Kaduna State,P5001,Bestseller Novel,Books,12,1,12,0.05,0.6,0.86,Two-Day,5,17.26,Bank Transfer,19/04/2025 00:00,23/04/2025 00:00,No,0
+ORD20499,19/03/2025 00:00,CUST1005,Lagos,Lagos State,P4001,Body Lotion,Health & Beauty,15,2,30,0,0,2.25,Two-Day,10,42.25,Credit Card,19/03/2025 00:00,24/03/2025 00:00,No,0
+ORD20500,11/11/2024 00:00,CUST1098,Kano,Kano State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Standard,5,144.75,Cash On Delivery,11/11/2024 00:00,14/11/2024 00:00,No,0
+ORD20501,29/09/2024 00:00,CUST1157,Jos,Plateau State,P3001,Men Denim Jeans,Clothing,45,1,45,0.05,2.25,3.21,Expedited,5,50.96,Credit Card,29/09/2024 00:00,01/10/2024 00:00,No,0
+ORD20502,13/02/2024 00:00,CUST1014,Kano,Kano State,P4001,Body Lotion,Health & Beauty,15,2,30,0,0,2.25,Standard,5,37.25,Credit Card,13/02/2024 00:00,15/02/2024 00:00,No,0
+ORD20503,27/04/2024 00:00,CUST1161,Sokoto,Sokoto State,P2002,Vacuum Cleaner,Home & Kitchen,200,3,600,0.05,30,42.75,Standard,5,617.75,Credit Card,27/04/2024 00:00,28/04/2024 00:00,No,0
+ORD20504,13/10/2025 00:00,CUST1098,Kano,Kano State,P2001,Cookware Set,Home & Kitchen,130,2,260,0.1,26,17.55,Standard,15,266.55,Credit Card,13/10/2025 00:00,18/10/2025 00:00,No,0
+ORD20505,20/08/2024 00:00,CUST1225,Kano,Kano State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Expedited,15,27.9,Paypal,20/08/2024 00:00,24/08/2024 00:00,No,0
+ORD20506,21/05/2024 00:00,CUST1272,Kano,Kano State,P2001,Cookware Set,Home & Kitchen,130,2,260,0.05,13,18.52,Standard,10,275.52,Credit Card,21/05/2024 00:00,26/05/2024 00:00,No,0
+ORD20507,27/03/2024 00:00,CUST1070,Zaria,Kaduna State,P6001,Football,Sports,30,2,60,0.1,6,4.05,Two-Day,15,73.05,Cash On Delivery,27/03/2024 00:00,30/03/2024 00:00,No,0
+ORD20508,10/07/2025 00:00,CUST1099,Minna,Niger State,P1001,Smartphone X1,Electronics,300,2,600,0.05,30,42.75,Expedited,15,627.75,Cash On Delivery,10/07/2025 00:00,14/07/2025 00:00,No,0
+ORD20509,26/06/2025 00:00,CUST1132,Minna,Niger State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Two-Day,5,26.5,Bank Transfer,26/06/2025 00:00,01/07/2025 00:00,No,0
+ORD20510,05/05/2025 00:00,CUST1142,Kaduna,Kaduna State,P1003,Wireless Headphones,Electronics,90,1,90,0.05,4.5,6.41,Two-Day,10,101.91,Bank Transfer,05/05/2025 00:00,10/05/2025 00:00,No,0
+ORD20511,27/01/2024 00:00,CUST1068,Abuja,Fct,P5001,Bestseller Novel,Books,12,3,36,0,0,2.7,Two-Day,5,43.7,Credit Card,27/01/2024 00:00,29/01/2024 00:00,No,0
+ORD20512,22/11/2024 00:00,CUST1162,Lagos,Lagos State,P2001,Cookware Set,Home & Kitchen,130,1,130,0.1,13,8.78,Expedited,10,135.78,Credit Card,22/11/2024 00:00,27/11/2024 00:00,No,0
+ORD20513,07/03/2024 00:00,CUST1209,Sokoto,Sokoto State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Two-Day,10,22.9,Credit Card,07/03/2024 00:00,10/03/2024 00:00,No,0
+ORD20514,02/02/2025 00:00,CUST1067,Minna,Niger State,P5001,Bestseller Novel,Books,12,3,36,0,0,2.7,Two-Day,5,43.7,Cash On Delivery,02/02/2025 00:00,03/02/2025 00:00,No,0
+ORD20515,07/11/2024 00:00,CUST1022,Abuja,Fct,P2001,Cookware Set,Home & Kitchen,130,1,130,0.15,19.5,8.29,Two-Day,15,133.79,Bank Transfer,07/11/2024 00:00,09/11/2024 00:00,No,0
+ORD20516,30/09/2024 00:00,CUST1153,Kano,Kano State,P6001,Football,Sports,30,1,30,0,0,2.25,Standard,10,42.25,Paypal,30/09/2024 00:00,03/10/2024 00:00,No,0
+ORD20517,06/05/2025 00:00,CUST1117,Kaduna,Kaduna State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Standard,5,144.75,Credit Card,06/05/2025 00:00,09/05/2025 00:00,No,0
+ORD20518,03/06/2024 00:00,CUST1206,Jos,Plateau State,P1001,Smartphone X1,Electronics,300,2,600,0.15,90,38.25,Standard,10,558.25,Credit Card,03/06/2024 00:00,04/06/2024 00:00,No,0
+ORD20519,11/08/2024 00:00,CUST1220,Sokoto,Sokoto State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Two-Day,15,111.75,Bank Transfer,11/08/2024 00:00,14/08/2024 00:00,No,0
+ORD20520,05/03/2024 00:00,CUST1055,Minna,Niger State,P2001,Cookware Set,Home & Kitchen,130,2,260,0,0,19.5,Standard,10,289.5,Cash On Delivery,05/03/2024 00:00,10/03/2024 00:00,No,0
+ORD20521,08/06/2025 00:00,CUST1259,Sokoto,Sokoto State,P4001,Body Lotion,Health & Beauty,15,3,45,0,0,3.38,Two-Day,10,58.38,Cash On Delivery,08/06/2025 00:00,11/06/2025 00:00,No,0
+ORD20522,23/09/2024 00:00,CUST1221,Abuja,Fct,P4001,Body Lotion,Health & Beauty,15,2,30,0,0,2.25,Expedited,15,47.25,Cash On Delivery,23/09/2024 00:00,25/09/2024 00:00,No,0
+ORD20523,27/09/2025 00:00,CUST1197,Abuja,Fct,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Standard,10,31.5,Paypal,27/09/2025 00:00,02/10/2025 00:00,No,0
+ORD20524,05/03/2025 00:00,CUST1176,Kaduna,Kaduna State,P1001,Smartphone X1,Electronics,300,1,300,0.1,30,20.25,Two-Day,15,305.25,Bank Transfer,05/03/2025 00:00,08/03/2025 00:00,No,0
+ORD20525,02/10/2025 00:00,CUST1031,Sokoto,Sokoto State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0.1,120,81,Two-Day,5,1166,Paypal,02/10/2025 00:00,03/10/2025 00:00,No,0
+ORD20526,03/04/2024 00:00,CUST1232,Zaria,Kaduna State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Expedited,5,17.9,Credit Card,03/04/2024 00:00,06/04/2024 00:00,No,0
+ORD20527,08/08/2025 00:00,CUST1141,Zaria,Kaduna State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Standard,10,106.75,Bank Transfer,08/08/2025 00:00,09/08/2025 00:00,No,0
+ORD20528,16/05/2025 00:00,CUST1159,Sokoto,Sokoto State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Two-Day,10,149.75,Bank Transfer,16/05/2025 00:00,19/05/2025 00:00,No,0
+ORD20529,20/10/2024 00:00,CUST1014,Jos,Plateau State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Expedited,10,1300,Credit Card,20/10/2024 00:00,21/10/2024 00:00,Yes,1300
+ORD20530,02/10/2025 00:00,CUST1289,Kaduna,Kaduna State,P3001,Men Denim Jeans,Clothing,45,4,180,0,0,13.5,Two-Day,10,203.5,Paypal,02/10/2025 00:00,07/10/2025 00:00,No,0
+ORD20531,23/06/2024 00:00,CUST1112,Jos,Plateau State,P1002,Laptop Pro 15,Electronics,1200,3,3600,0,0,270,Expedited,10,3880,Cash On Delivery,23/06/2024 00:00,26/06/2024 00:00,No,0
+ORD20532,11/11/2025 00:00,CUST1204,Sokoto,Sokoto State,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Two-Day,15,31.12,Credit Card,11/11/2025 00:00,12/11/2025 00:00,No,0
+ORD20533,26/03/2024 00:00,CUST1288,Sokoto,Sokoto State,P6001,Football,Sports,30,2,60,0.15,9,3.82,Two-Day,5,59.82,Credit Card,26/03/2024 00:00,30/03/2024 00:00,No,0
+ORD20534,07/02/2024 00:00,CUST1030,Kano,Kano State,P2002,Vacuum Cleaner,Home & Kitchen,200,2,400,0,0,30,Expedited,15,445,Cash On Delivery,07/02/2024 00:00,12/02/2024 00:00,No,0
+ORD20535,28/11/2025 00:00,CUST1090,Sokoto,Sokoto State,P6001,Football,Sports,30,1,30,0,0,2.25,Expedited,15,47.25,Credit Card,28/11/2025 00:00,02/12/2025 00:00,No,0
+ORD20536,19/08/2024 00:00,CUST1232,Zaria,Kaduna State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Expedited,15,154.75,Credit Card,19/08/2024 00:00,23/08/2024 00:00,No,0
+ORD20537,21/07/2024 00:00,CUST1011,Sokoto,Sokoto State,P5001,Bestseller Novel,Books,12,1,12,0,0,0.9,Expedited,10,22.9,Paypal,21/07/2024 00:00,23/07/2024 00:00,Yes,22.9
+ORD20538,08/02/2025 00:00,CUST1091,Abuja,Fct,P1002,Laptop Pro 15,Electronics,1200,3,3600,0,0,270,Standard,15,3885,Paypal,08/02/2025 00:00,12/02/2025 00:00,Yes,3885
+ORD20539,05/07/2025 00:00,CUST1163,Kano,Kano State,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Two-Day,15,31.12,Paypal,05/07/2025 00:00,09/07/2025 00:00,No,0
+ORD20540,20/09/2024 00:00,CUST1019,Minna,Niger State,P2001,Cookware Set,Home & Kitchen,130,2,260,0,0,19.5,Two-Day,15,294.5,Bank Transfer,20/09/2024 00:00,23/09/2024 00:00,No,0
+ORD20541,21/01/2025 00:00,CUST1096,Kano,Kano State,P6001,Football,Sports,30,1,30,0.1,3,2.02,Expedited,15,44.02,Bank Transfer,21/01/2025 00:00,22/01/2025 00:00,No,0
+ORD20542,29/03/2025 00:00,CUST1261,Minna,Niger State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0.05,10,14.25,Expedited,5,209.25,Credit Card,29/03/2025 00:00,03/04/2025 00:00,No,0
+ORD20543,14/06/2024 00:00,CUST1040,Sokoto,Sokoto State,P3002,Women T‑Shirt,Clothing,20,2,40,0,0,3,Expedited,10,53,Paypal,14/06/2024 00:00,19/06/2024 00:00,Yes,53
+ORD20544,26/02/2025 00:00,CUST1278,Lagos,Lagos State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Two-Day,5,220,Bank Transfer,26/02/2025 00:00,02/03/2025 00:00,No,0
+ORD20545,11/02/2025 00:00,CUST1146,Zaria,Kaduna State,P4001,Body Lotion,Health & Beauty,15,1,15,0,0,1.12,Two-Day,15,31.12,Bank Transfer,11/02/2025 00:00,14/02/2025 00:00,No,0
+ORD20546,09/07/2025 00:00,CUST1146,Abuja,Fct,P3001,Men Denim Jeans,Clothing,45,1,45,0.1,4.5,3.04,Two-Day,5,48.54,Paypal,09/07/2025 00:00,12/07/2025 00:00,No,0
+ORD20547,26/09/2024 00:00,CUST1135,Kano,Kano State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Two-Day,10,1300,Bank Transfer,26/09/2024 00:00,30/09/2024 00:00,No,0
+ORD20548,15/09/2024 00:00,CUST1082,Jos,Plateau State,P6001,Football,Sports,30,1,30,0,0,2.25,Expedited,5,37.25,Credit Card,15/09/2024 00:00,18/09/2024 00:00,No,0
+ORD20549,12/08/2024 00:00,CUST1081,Sokoto,Sokoto State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0.05,60,85.5,Standard,15,1240.5,Credit Card,12/08/2024 00:00,14/08/2024 00:00,No,0
+ORD20550,10/03/2024 00:00,CUST1196,Kano,Kano State,P1003,Wireless Headphones,Electronics,90,3,270,0,0,20.25,Standard,5,295.25,Bank Transfer,10/03/2024 00:00,13/03/2024 00:00,No,0
+ORD20551,29/02/2024 00:00,CUST1281,Sokoto,Sokoto State,P1001,Smartphone X1,Electronics,300,2,600,0,0,45,Expedited,10,655,Credit Card,29/02/2024 00:00,03/03/2024 00:00,No,0
+ORD20552,30/12/2024 00:00,CUST1270,Sokoto,Sokoto State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Two-Day,15,154.75,Bank Transfer,30/12/2024 00:00,03/01/2025 00:00,No,0
+ORD20553,26/01/2025 00:00,CUST1056,Zaria,Kaduna State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Two-Day,10,58.38,Bank Transfer,26/01/2025 00:00,30/01/2025 00:00,No,0
+ORD20554,27/03/2025 00:00,CUST1148,Kaduna,Kaduna State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Two-Day,10,149.75,Cash On Delivery,27/03/2025 00:00,30/03/2025 00:00,No,0
+ORD20555,24/08/2025 00:00,CUST1218,Minna,Niger State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Expedited,15,36.5,Paypal,24/08/2025 00:00,25/08/2025 00:00,No,0
+ORD20556,26/12/2024 00:00,CUST1077,Kano,Kano State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Expedited,5,53.38,Credit Card,26/12/2024 00:00,30/12/2024 00:00,No,0
+ORD20557,02/10/2025 00:00,CUST1162,Lagos,Lagos State,P1003,Wireless Headphones,Electronics,90,2,180,0,0,13.5,Standard,15,208.5,Paypal,02/10/2025 00:00,05/10/2025 00:00,No,0
+ORD20558,23/09/2025 00:00,CUST1244,Abuja,Fct,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Two-Day,15,63.38,Paypal,23/09/2025 00:00,28/09/2025 00:00,No,0
+ORD20559,21/05/2024 00:00,CUST1104,Jos,Plateau State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Two-Day,15,111.75,Bank Transfer,21/05/2024 00:00,23/05/2024 00:00,No,0
+ORD20560,21/12/2025 00:00,CUST1217,Sokoto,Sokoto State,P3001,Men Denim Jeans,Clothing,45,1,45,0,0,3.38,Standard,15,63.38,Credit Card,21/12/2025 00:00,25/12/2025 00:00,No,0
+ORD20561,08/06/2024 00:00,CUST1012,Zaria,Kaduna State,P2001,Cookware Set,Home & Kitchen,130,1,130,0,0,9.75,Standard,5,144.75,Bank Transfer,08/06/2024 00:00,13/06/2024 00:00,No,0
+ORD20562,02/09/2025 00:00,CUST1227,Jos,Plateau State,P3002,Women T‑Shirt,Clothing,20,2,40,0,0,3,Expedited,15,58,Bank Transfer,02/09/2025 00:00,05/09/2025 00:00,No,0
+ORD20563,17/09/2025 00:00,CUST1174,Kaduna,Kaduna State,P6001,Football,Sports,30,1,30,0,0,2.25,Standard,15,47.25,Paypal,17/09/2025 00:00,20/09/2025 00:00,No,0
+ORD20564,03/04/2024 00:00,CUST1284,Sokoto,Sokoto State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Standard,10,106.75,Credit Card,03/04/2024 00:00,07/04/2024 00:00,No,0
+ORD20565,17/07/2024 00:00,CUST1012,Lagos,Lagos State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Two-Day,10,225,Bank Transfer,17/07/2024 00:00,18/07/2024 00:00,No,0
+ORD20566,24/07/2025 00:00,CUST1205,Jos,Plateau State,P2002,Vacuum Cleaner,Home & Kitchen,200,1,200,0,0,15,Expedited,10,225,Credit Card,24/07/2025 00:00,26/07/2025 00:00,No,0
+ORD20567,13/03/2024 00:00,CUST1202,Sokoto,Sokoto State,P2001,Cookware Set,Home & Kitchen,130,1,130,0.1,13,8.78,Two-Day,5,130.78,Cash On Delivery,13/03/2024 00:00,17/03/2024 00:00,No,0
+ORD20568,14/10/2025 00:00,CUST1068,Kano,Kano State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Standard,15,36.5,Cash On Delivery,14/10/2025 00:00,18/10/2025 00:00,No,0
+ORD20569,25/03/2025 00:00,CUST1176,Kano,Kano State,P6001,Football,Sports,30,1,30,0,0,2.25,Expedited,5,37.25,Credit Card,25/03/2025 00:00,30/03/2025 00:00,No,0
+ORD20570,12/12/2025 00:00,CUST1272,Zaria,Kaduna State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Two-Day,10,31.5,Credit Card,12/12/2025 00:00,13/12/2025 00:00,No,0
+ORD20571,09/03/2025 00:00,CUST1298,Sokoto,Sokoto State,P1002,Laptop Pro 15,Electronics,1200,1,1200,0,0,90,Expedited,10,1300,Credit Card,09/03/2025 00:00,14/03/2025 00:00,No,0
+ORD20572,24/07/2025 00:00,CUST1289,Kano,Kano State,P1001,Smartphone X1,Electronics,300,1,300,0,0,22.5,Two-Day,10,332.5,Bank Transfer,24/07/2025 00:00,26/07/2025 00:00,No,0
+ORD20573,11/02/2024 00:00,CUST1178,Lagos,Lagos State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Standard,5,26.5,Cash On Delivery,11/02/2024 00:00,16/02/2024 00:00,No,0
+ORD20574,06/08/2025 00:00,CUST1264,Minna,Niger State,P1003,Wireless Headphones,Electronics,90,1,90,0.05,4.5,6.41,Expedited,15,106.91,Cash On Delivery,06/08/2025 00:00,11/08/2025 00:00,No,0
+ORD20575,04/02/2025 00:00,CUST1298,Jos,Plateau State,P1001,Smartphone X1,Electronics,300,1,300,0,0,22.5,Two-Day,15,337.5,Bank Transfer,04/02/2025 00:00,09/02/2025 00:00,No,0
+ORD20576,09/04/2025 00:00,CUST1074,Zaria,Kaduna State,P1003,Wireless Headphones,Electronics,90,1,90,0,0,6.75,Expedited,5,101.75,Paypal,09/04/2025 00:00,14/04/2025 00:00,No,0
+ORD20577,25/08/2025 00:00,CUST1257,Kaduna,Kaduna State,P6001,Football,Sports,30,1,30,0,0,2.25,Two-Day,5,37.25,Bank Transfer,25/08/2025 00:00,29/08/2025 00:00,No,0
+ORD20578,04/02/2024 00:00,CUST1133,Minna,Niger State,P4001,Body Lotion,Health & Beauty,15,1,15,0.05,0.75,1.07,Two-Day,10,25.32,Cash On Delivery,04/02/2024 00:00,08/02/2024 00:00,No,0
+ORD20579,07/10/2024 00:00,CUST1081,Jos,Plateau State,P3002,Women T‑Shirt,Clothing,20,1,20,0,0,1.5,Standard,10,31.5,Cash On Delivery,07/10/2024 00:00,09/10/2024 00:00,Yes,31.5
