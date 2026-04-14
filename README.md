@@ -42,7 +42,10 @@ ecommerce-sales-analytics-dashboard/
 └── README.md
 
 ## **Dashboard Preview**
-
+![Overview](images/Overview.png)
+![Sales](images/Sales.jpeg)
+![Customers](images/Customer.png)
+![Returns](images/Return.png)
 ## **How to Use**
 
 1. Download the Power BI file from the `dashboard/` folder  
